@@ -1,0 +1,5 @@
+{
+  "experiments/run_research.py": "8da2c3fb6e4f34b1ac2c47322ef3e9574f2cf393379cef593ee97dbc020afbed",
+  "src/operators/primitives.py": "5dce22b78097e5e8ea4d41d3cda9badf0399c62170f5c405d2129eaebaf11213",
+  "src/physics/heat.py": "27656d9a72fd6e846ed7d20a500a1194591c4922e55582f3f6d1c7f71be63267"
+}

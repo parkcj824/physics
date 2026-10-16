@@ -1,0 +1,7 @@
+{
+  "experiments/run_research.py": "4f704ebf087c8444602062ab6479a6d611304799db19497492776ada03f87b59",
+  "src/operators/primitives.py": "84dd742ab66ed9746a21e27db6fe989a72300a3640fb31a213f87cef3da464b1",
+  "src/physics/heat.py": "27656d9a72fd6e846ed7d20a500a1194591c4922e55582f3f6d1c7f71be63267",
+  "tests/test_research_physics.py": "689ef1e74cf9109ce0f38c1596c1cfe4771572a4b8abd43685d2c8db32c0ef3b",
+  "requirements-cpu.lock": "04b951d8f2b4fa7657b13650aae0170e10d0ff68eab8586baa620c0014d6904c"
+}

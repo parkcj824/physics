@@ -1,0 +1,44 @@
+[
+  {
+    "key": "hnn_code",
+    "url": "https://raw.githubusercontent.com/greydanus/hamiltonian-nn/master/hnn.py",
+    "status": "downloaded",
+    "bytes": 3621
+  },
+  {
+    "key": "fno_spectral_code",
+    "url": "https://raw.githubusercontent.com/neuraloperator/neuraloperator/main/neuralop/layers/spectral_convolution.py",
+    "status": "downloaded",
+    "bytes": 21954
+  },
+  {
+    "key": "graph_network_code",
+    "url": "https://raw.githubusercontent.com/google-deepmind/deepmind-research/master/learning_to_simulate/graph_network.py",
+    "status": "downloaded",
+    "bytes": 6983
+  },
+  {
+    "key": "meshgraphnet_core_code",
+    "url": "https://raw.githubusercontent.com/google-deepmind/deepmind-research/master/meshgraphnets/core_model.py",
+    "status": "downloaded",
+    "bytes": 4983
+  },
+  {
+    "key": "pymor",
+    "url": "https://raw.githubusercontent.com/pymor/pymor/main/README.md",
+    "status": "downloaded",
+    "bytes": 7014
+  },
+  {
+    "key": "pyamg",
+    "url": "https://raw.githubusercontent.com/pyamg/pyamg/main/README.md",
+    "status": "downloaded",
+    "bytes": 6976
+  },
+  {
+    "key": "e3nn",
+    "url": "https://raw.githubusercontent.com/e3nn/e3nn/main/README.md",
+    "status": "downloaded",
+    "bytes": 4801
+  }
+]

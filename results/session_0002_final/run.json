@@ -1,0 +1,37 @@
+{
+  "status": "completed",
+  "started_utc": "2026-10-16T16:41:49.976801+00:00",
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "torch": "2.8.0+cpu",
+    "matplotlib": "3.10.3"
+  },
+  "hardware": {
+    "logical_cpu_count": 5,
+    "torch_threads": 1,
+    "cuda_available": false
+  },
+  "training_seeds": [
+    824,
+    825,
+    826
+  ],
+  "training_samples": 128,
+  "validation_samples": 32,
+  "test_samples_per_condition": 32,
+  "training_steps": 1000,
+  "refinement_training_steps": 3000,
+  "refinement_training_counts": [
+    32,
+    128
+  ],
+  "publication": "local only; not uploaded",
+  "novelty": "unverified; classical equivalences explicitly tracked",
+  "completed_utc": "2026-10-16T16:42:07.296823+00:00",
+  "total_seconds": 17.320104610000044,
+  "recorded_case_count": 198,
+  "cycle_count": 12,
+  "invention_selected": false
+}

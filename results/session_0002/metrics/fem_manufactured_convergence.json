@@ -1,0 +1,38 @@
+[
+  {
+    "intervals": 8,
+    "relative_l2": 0.006709165074884397,
+    "max_absolute_error": 0.00039458067947927694,
+    "flux_relative_l2": 0.09301123884942421,
+    "pde_residual_inf": 1.1796119636642288e-16,
+    "relative_residual": 1.7618475390022086e-15,
+    "net_energy_balance_abs": 2.220446049250313e-16,
+    "boundary_error_abs": 0.0,
+    "source_integral": 1.3437500000000007,
+    "outward_flux_from_reactions": 1.3437500000000009
+  },
+  {
+    "intervals": 16,
+    "relative_l2": 0.001676448438554116,
+    "max_absolute_error": 9.842194221421074e-05,
+    "flux_relative_l2": 0.04538915754894065,
+    "pde_residual_inf": 1.3183898417423734e-16,
+    "relative_residual": 5.759808079746942e-15,
+    "net_energy_balance_abs": 3.1086244689504383e-15,
+    "boundary_error_abs": 0.0,
+    "source_integral": 1.3359375000000004,
+    "outward_flux_from_reactions": 1.3359375000000036
+  },
+  {
+    "intervals": 24,
+    "relative_l2": 0.0007450887144893904,
+    "max_absolute_error": 4.372893569373065e-05,
+    "flux_relative_l2": 0.030117720103525772,
+    "pde_residual_inf": 1.48318857196017e-16,
+    "relative_residual": 1.502043885845194e-14,
+    "net_energy_balance_abs": 3.774758283725532e-15,
+    "boundary_error_abs": 0.0,
+    "source_integral": 1.3344907407407403,
+    "outward_flux_from_reactions": 1.334490740740744
+  }
+]

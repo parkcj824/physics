@@ -1,0 +1,4 @@
+{
+  "status": "correctly rejected",
+  "reason": "incompatible pure Neumann source and outward-directed x fluxes"
+}
