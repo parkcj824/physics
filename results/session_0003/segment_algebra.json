@@ -1,0 +1,10 @@
+{
+  "associativity_max_difference": 0.0,
+  "order_commutator": [
+    0.0,
+    0.0,
+    0.6399999999999999
+  ],
+  "interpretation": "physical spatial subdomain ordering, not fictitious history of material edits",
+  "matrix_equivalence": "[[1,-R,-C],[0,1,S],[0,0,1]] on [T,j,1]; compose second matrix times first"
+}

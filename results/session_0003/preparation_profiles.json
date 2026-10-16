@@ -1,0 +1,34 @@
+{
+  "inverse_setup_n7": {
+    "median_seconds": 5.5895999821586884e-05,
+    "repeats": 7,
+    "tracemalloc_peak_bytes": 7592,
+    "process_rss_high_water_kib": 216628,
+    "memory_scope": "traced allocations omit some native/BLAS memory; RSS cumulative across process",
+    "scope": "matrix assembly and dense inverse; excluded from A/C per-case application latency"
+  },
+  "inverse_setup_n15": {
+    "median_seconds": 5.822200000693556e-05,
+    "repeats": 7,
+    "tracemalloc_peak_bytes": 12136,
+    "process_rss_high_water_kib": 216628,
+    "memory_scope": "traced allocations omit some native/BLAS memory; RSS cumulative across process",
+    "scope": "matrix assembly and dense inverse; excluded from A/C per-case application latency"
+  },
+  "inverse_setup_n31": {
+    "median_seconds": 0.00027847199999087024,
+    "repeats": 7,
+    "tracemalloc_peak_bytes": 32528,
+    "process_rss_high_water_kib": 216628,
+    "memory_scope": "traced allocations omit some native/BLAS memory; RSS cumulative across process",
+    "scope": "matrix assembly and dense inverse; excluded from A/C per-case application latency"
+  },
+  "training_label_generation_128": {
+    "median_seconds": 0.01567347799982599,
+    "repeats": 7,
+    "tracemalloc_peak_bytes": 102296,
+    "process_rss_high_water_kib": 216628,
+    "memory_scope": "traced allocations omit some native/BLAS memory; RSS cumulative across process",
+    "scope": "synthetic fields, dense reference assembly and label solves; profiling replay, not new training data"
+  }
+}

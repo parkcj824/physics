@@ -1,0 +1,7 @@
+{
+  "src/operators/session0003.py": "61840e6b87f77c26b482c7b46a20e762dbe3c5c1ce6508cd810ae446a3dac781",
+  "experiments/session0003.py": "e8a554802d1621b2aa3183249a5f9cb3ae6943b1371ebf3166bc2c90135db0db",
+  "src/physics/heat.py": "27656d9a72fd6e846ed7d20a500a1194591c4922e55582f3f6d1c7f71be63267",
+  "src/operators/primitives.py": "c810cfdb00fadca021f73203866c49d488b24a13bd5d316627fb1983da762b28",
+  "requirements-cpu.lock": "04b951d8f2b4fa7657b13650aae0170e10d0ff68eab8586baa620c0014d6904c"
+}

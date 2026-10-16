@@ -1,0 +1,5 @@
+{
+  "D_transient": "not defined by this steady spatial relation; not silently used as a time stepper",
+  "stokes": "not run: no new primitive survived novelty/independent-operation screening",
+  "large_GPU": "not authorized and not run"
+}

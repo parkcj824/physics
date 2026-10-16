@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://arxiv.org/abs/2010.08895",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://jmlr.org/papers/v24/21-1524.html",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

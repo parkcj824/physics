@@ -1,0 +1,56 @@
+[
+  {
+    "seed": 824,
+    "condition": "iid",
+    "mean_relative_l2": 0.002570716632174368,
+    "modal_prediction_max_difference": 2.2681509448396753e-16
+  },
+  {
+    "seed": 824,
+    "condition": "low_conductivity_ood",
+    "mean_relative_l2": 0.8048597582999244,
+    "modal_prediction_max_difference": 3.3306690738754696e-16
+  },
+  {
+    "seed": 824,
+    "condition": "high_frequency_source_ood",
+    "mean_relative_l2": 0.07814429760554291,
+    "modal_prediction_max_difference": 2.3592239273284576e-16
+  },
+  {
+    "seed": 825,
+    "condition": "iid",
+    "mean_relative_l2": 0.0028092188376626723,
+    "modal_prediction_max_difference": 3.0617869350990645e-16
+  },
+  {
+    "seed": 825,
+    "condition": "low_conductivity_ood",
+    "mean_relative_l2": 0.8009098690697479,
+    "modal_prediction_max_difference": 4.440892098500626e-16
+  },
+  {
+    "seed": 825,
+    "condition": "high_frequency_source_ood",
+    "mean_relative_l2": 0.11795699316249778,
+    "modal_prediction_max_difference": 2.7755575615628914e-16
+  },
+  {
+    "seed": 826,
+    "condition": "iid",
+    "mean_relative_l2": 0.0025506112695187193,
+    "modal_prediction_max_difference": 2.68665298341908e-16
+  },
+  {
+    "seed": 826,
+    "condition": "low_conductivity_ood",
+    "mean_relative_l2": 0.8069372196144698,
+    "modal_prediction_max_difference": 4.440892098500626e-16
+  },
+  {
+    "seed": 826,
+    "condition": "high_frequency_source_ood",
+    "mean_relative_l2": 0.09976764120941002,
+    "modal_prediction_max_difference": 2.0816681711721685e-16
+  }
+]

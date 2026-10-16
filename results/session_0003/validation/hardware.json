@@ -1,0 +1,12 @@
+{
+  "cpu_count": 5,
+  "cgroup_memory_max": "34359738368",
+  "cgroup_cpu_max": "400000 100000",
+  "memory_at_validation": {
+    "MemTotal": "35003576 kB",
+    "MemAvailable": "34254640 kB"
+  },
+  "gpu_device_nodes": [],
+  "experiment_threads": 1,
+  "gpu_training": "not run"
+}

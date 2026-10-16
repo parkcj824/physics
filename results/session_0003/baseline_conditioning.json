@@ -1,0 +1,70 @@
+{
+  "diagnosis": "retained singular direction ~1.1e-7 with distribution shift; unregularized coefficient norm ~1.67e6",
+  "design_singular_values": [
+    40.85040382288913,
+    23.430134102977707,
+    22.406811533340893,
+    20.541617041961146,
+    19.583050043857675,
+    16.673604862379907,
+    11.887897910883359,
+    11.313708498984761,
+    10.814981011643649,
+    9.823944984359537,
+    5.0681407412458865,
+    4.451149223809929,
+    3.2418118896020154,
+    2.333241524620289,
+    1.3252075016513662,
+    1.1757036075529663,
+    1.083556503217902,
+    0.4210482785081035,
+    0.07655211110969175,
+    0.038530695801598513,
+    0.0001418708631812903,
+    1.1003035096773259e-07,
+    4.5721456993849906e-15,
+    3.862403987813418e-15,
+    3.243669261224295e-15,
+    2.92063313049424e-15,
+    2.5347089477800696e-15,
+    2.0689641470322836e-15,
+    1.968243159376449e-15,
+    1.863371113571132e-15,
+    1.4083305414968887e-15,
+    1.2917457709012339e-15,
+    1.1890424525864902e-15,
+    5.452342539059202e-16
+  ],
+  "unregularized_coefficient_norm": 1673781.9903201074,
+  "ridge_coefficient_norm": 0.9574356227958694,
+  "selected_alpha": 1.0,
+  "selection": "minimum normalized squared error on separate validation set; OOD labels not used",
+  "validation_grid": [
+    {
+      "alpha": 1e-06,
+      "relative_mse": 0.052115334378427025
+    },
+    {
+      "alpha": 0.0001,
+      "relative_mse": 0.05216047562677828
+    },
+    {
+      "alpha": 0.01,
+      "relative_mse": 0.052628281414725656
+    },
+    {
+      "alpha": 1.0,
+      "relative_mse": 0.042637789529019685
+    },
+    {
+      "alpha": 100.0,
+      "relative_mse": 0.18584901126492426
+    }
+  ],
+  "training_samples": 128,
+  "validation_samples": 32,
+  "training_seconds": 0.003190487999972902,
+  "cycle": 18,
+  "kind": "diagnosed baseline correction, not a new primitive or independent cycle"
+}

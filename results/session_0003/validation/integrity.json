@@ -1,0 +1,30 @@
+{
+  "status": "verified",
+  "records": 136,
+  "cycles": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "new_cycle_count": 6,
+  "prior_result_files_unchanged": 232,
+  "source_snapshot_files_checked": 15,
+  "independent_banded_reference_evaluations": 1786,
+  "saved_checkpoint_predictions_reproduced": 20,
+  "signed_advection_direction_cases": 6,
+  "matched_test_condition_fingerprints": {
+    "iid": "6f83777c0bca67df97728ad1a406b0e4dcd434690958a4eaa8253ea01d678513",
+    "low_k": "e9a2f6b92905ef3feefcd930a39b8b676d94d28e39c71e0df80982559343afad",
+    "new_source": "9c9041a11017671b73c138e921aba1eb5665cd4e435d63a87feb57339b702eda",
+    "new_material": "8a2b799617baaa1b3aba90d29dc8ea27a40dc296c601dad4d17ea49190af3796",
+    "new_boundary": "7fb630293f620f5d9fa482b42836cb7305b1f59008adb3b89ecaac317a74bf98"
+  },
+  "pytest_passed": 34,
+  "pytest_failed": 0,
+  "pytest_skipped": 0,
+  "invention_selected": false,
+  "interpretation": "reference evaluations include repeated comparisons on the same inputs, not independent data samples"
+}
