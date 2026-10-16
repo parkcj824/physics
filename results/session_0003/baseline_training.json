@@ -1,0 +1,20 @@
+[
+  {
+    "seed": 903,
+    "seconds": 2.1574365769999986,
+    "last_training_relative_mse": 0.0005330885470533881,
+    "validation_mean_relative_l2": 0.14411185013461666
+  },
+  {
+    "seed": 904,
+    "seconds": 1.230541465999977,
+    "last_training_relative_mse": 0.0006283222331981248,
+    "validation_mean_relative_l2": 0.13157438548463846
+  },
+  {
+    "seed": 905,
+    "seconds": 1.5559963420000713,
+    "last_training_relative_mse": 0.0005745265187831712,
+    "validation_mean_relative_l2": 0.18337769125340744
+  }
+]

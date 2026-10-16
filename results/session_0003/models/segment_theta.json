@@ -1,0 +1,7 @@
+{
+  "theta": 1.0000000000000002,
+  "training_samples": 128,
+  "training_method": "one-parameter weighted least squares, not SGD",
+  "training_seconds": 0.004737132999935056,
+  "interpretation": "recovering the known unit transfer coefficient is not a neural invention"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "key": "cvxpylayers",
+    "url": "https://raw.githubusercontent.com/cvxgrp/cvxpylayers/master/README.md",
+    "status": "retrieved",
+    "bytes": 10021,
+    "sha256": "d1082785ad94be77ce49b29ff344f31b97014b9e965b84b40f961ad7df0b7b7a",
+    "reading_depth": "official README only; original paper not obtained"
+  },
+  {
+    "key": "optnet",
+    "url": "https://raw.githubusercontent.com/locuslab/optnet/master/README.md",
+    "status": "retrieved",
+    "bytes": 4191,
+    "sha256": "1a3bd18ee1e338096481aaf9335ac2e65396ab5f81e97a6cfd0457ae1f0aa6ca",
+    "reading_depth": "official README only; original paper not obtained"
+  },
+  {
+    "key": "deq",
+    "url": "https://raw.githubusercontent.com/locuslab/deq/master/README.md",
+    "status": "retrieved",
+    "bytes": 10571,
+    "sha256": "0df916d2d1c91ffd32ceb22b5c1dd529a31a8d11cea8900448711a0078d3bece",
+    "reading_depth": "official README only; original paper not obtained"
+  }
+]
