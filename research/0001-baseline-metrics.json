@@ -1,0 +1,27 @@
+{
+  "seed": 824,
+  "steps": 400,
+  "initial_loss": 0.03997153115202883,
+  "final_loss": 2.745474058498152e-21,
+  "coefficients": [
+    0.9999999999459299,
+    0.9999999998992237,
+    4.47737602504792e-11
+  ],
+  "device": "cpu",
+  "dtype": "torch.float64",
+  "dt": 0.05,
+  "integration_steps": 400,
+  "reference_max_abs_error": 2.2833668289479192e-10,
+  "learned_rollout_max_abs_error": 1.4688154303943435e-09,
+  "euler_final_relative_energy_error": 1.7148917443812932,
+  "leapfrog_max_relative_energy_error": 0.0006249937444130493,
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "matplotlib": "3.10.3",
+    "torch": "2.8.0+cpu"
+  },
+  "novelty": "unverified; baseline only; no literature review performed"
+}

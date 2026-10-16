@@ -1,0 +1,44 @@
+[
+  {
+    "key": "neuraloperator",
+    "url": "https://raw.githubusercontent.com/neuraloperator/neuraloperator/main/README.rst",
+    "status": "downloaded",
+    "bytes": 6707
+  },
+  {
+    "key": "deeponet",
+    "url": "https://raw.githubusercontent.com/lululxvi/deeponet/master/README.md",
+    "status": "downloaded",
+    "bytes": 7777
+  },
+  {
+    "key": "pinn",
+    "url": "https://raw.githubusercontent.com/maziarraissi/PINNs/master/README.md",
+    "status": "downloaded",
+    "bytes": 3489
+  },
+  {
+    "key": "hamiltonian",
+    "url": "https://raw.githubusercontent.com/greydanus/hamiltonian-nn/master/README.md",
+    "status": "downloaded",
+    "bytes": 6128
+  },
+  {
+    "key": "lagrangian",
+    "url": "https://raw.githubusercontent.com/MilesCranmer/lagrangian_nns/master/README.md",
+    "status": "downloaded",
+    "bytes": 4492
+  },
+  {
+    "key": "graph_simulator",
+    "url": "https://raw.githubusercontent.com/google-deepmind/deepmind-research/master/learning_to_simulate/README.md",
+    "status": "downloaded",
+    "bytes": 4146
+  },
+  {
+    "key": "meshgraphnets",
+    "url": "https://raw.githubusercontent.com/google-deepmind/deepmind-research/master/meshgraphnets/README.md",
+    "status": "downloaded",
+    "bytes": 2890
+  }
+]

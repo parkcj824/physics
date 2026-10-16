@@ -1,0 +1,194 @@
+[
+  {
+    "samples": 32,
+    "seed": 824,
+    "condition": "iid",
+    "mean_relative_l2": 0.41364913268470893,
+    "selected_step": 150,
+    "training_seconds": 1.8523980079999092
+  },
+  {
+    "samples": 32,
+    "seed": 824,
+    "condition": "low_conductivity_ood",
+    "mean_relative_l2": 0.9921225088389207,
+    "selected_step": 150,
+    "training_seconds": 1.8523980079999092
+  },
+  {
+    "samples": 32,
+    "seed": 824,
+    "condition": "high_conductivity_ood",
+    "mean_relative_l2": 8.023491643277065,
+    "selected_step": 150,
+    "training_seconds": 1.8523980079999092
+  },
+  {
+    "samples": 32,
+    "seed": 824,
+    "condition": "high_frequency_source_ood",
+    "mean_relative_l2": 19.830046846496472,
+    "selected_step": 150,
+    "training_seconds": 1.8523980079999092
+  },
+  {
+    "samples": 32,
+    "seed": 825,
+    "condition": "iid",
+    "mean_relative_l2": 0.3843222967948838,
+    "selected_step": 250,
+    "training_seconds": 1.9844726870001068
+  },
+  {
+    "samples": 32,
+    "seed": 825,
+    "condition": "low_conductivity_ood",
+    "mean_relative_l2": 0.9930253893784491,
+    "selected_step": 250,
+    "training_seconds": 1.9844726870001068
+  },
+  {
+    "samples": 32,
+    "seed": 825,
+    "condition": "high_conductivity_ood",
+    "mean_relative_l2": 8.968175206434104,
+    "selected_step": 250,
+    "training_seconds": 1.9844726870001068
+  },
+  {
+    "samples": 32,
+    "seed": 825,
+    "condition": "high_frequency_source_ood",
+    "mean_relative_l2": 23.308142820839166,
+    "selected_step": 250,
+    "training_seconds": 1.9844726870001068
+  },
+  {
+    "samples": 32,
+    "seed": 826,
+    "condition": "iid",
+    "mean_relative_l2": 0.39992949036686537,
+    "selected_step": 200,
+    "training_seconds": 1.7702053160001014
+  },
+  {
+    "samples": 32,
+    "seed": 826,
+    "condition": "low_conductivity_ood",
+    "mean_relative_l2": 0.9931570541235116,
+    "selected_step": 200,
+    "training_seconds": 1.7702053160001014
+  },
+  {
+    "samples": 32,
+    "seed": 826,
+    "condition": "high_conductivity_ood",
+    "mean_relative_l2": 8.839754735484368,
+    "selected_step": 200,
+    "training_seconds": 1.7702053160001014
+  },
+  {
+    "samples": 32,
+    "seed": 826,
+    "condition": "high_frequency_source_ood",
+    "mean_relative_l2": 43.62627387611998,
+    "selected_step": 200,
+    "training_seconds": 1.7702053160001014
+  },
+  {
+    "samples": 128,
+    "seed": 824,
+    "condition": "iid",
+    "mean_relative_l2": 0.06425949185902184,
+    "selected_step": 3000,
+    "training_seconds": 1.9826273939997918
+  },
+  {
+    "samples": 128,
+    "seed": 824,
+    "condition": "low_conductivity_ood",
+    "mean_relative_l2": 0.9958304431467373,
+    "selected_step": 3000,
+    "training_seconds": 1.9826273939997918
+  },
+  {
+    "samples": 128,
+    "seed": 824,
+    "condition": "high_conductivity_ood",
+    "mean_relative_l2": 3.468138384795124,
+    "selected_step": 3000,
+    "training_seconds": 1.9826273939997918
+  },
+  {
+    "samples": 128,
+    "seed": 824,
+    "condition": "high_frequency_source_ood",
+    "mean_relative_l2": 15.762984328956506,
+    "selected_step": 3000,
+    "training_seconds": 1.9826273939997918
+  },
+  {
+    "samples": 128,
+    "seed": 825,
+    "condition": "iid",
+    "mean_relative_l2": 0.05462882392553975,
+    "selected_step": 3000,
+    "training_seconds": 2.0374595160001263
+  },
+  {
+    "samples": 128,
+    "seed": 825,
+    "condition": "low_conductivity_ood",
+    "mean_relative_l2": 0.9980710208535142,
+    "selected_step": 3000,
+    "training_seconds": 2.0374595160001263
+  },
+  {
+    "samples": 128,
+    "seed": 825,
+    "condition": "high_conductivity_ood",
+    "mean_relative_l2": 4.6769236095423725,
+    "selected_step": 3000,
+    "training_seconds": 2.0374595160001263
+  },
+  {
+    "samples": 128,
+    "seed": 825,
+    "condition": "high_frequency_source_ood",
+    "mean_relative_l2": 9.786119847358412,
+    "selected_step": 3000,
+    "training_seconds": 2.0374595160001263
+  },
+  {
+    "samples": 128,
+    "seed": 826,
+    "condition": "iid",
+    "mean_relative_l2": 0.049961649874358964,
+    "selected_step": 3000,
+    "training_seconds": 2.818289122999886
+  },
+  {
+    "samples": 128,
+    "seed": 826,
+    "condition": "low_conductivity_ood",
+    "mean_relative_l2": 0.9961582351076284,
+    "selected_step": 3000,
+    "training_seconds": 2.818289122999886
+  },
+  {
+    "samples": 128,
+    "seed": 826,
+    "condition": "high_conductivity_ood",
+    "mean_relative_l2": 3.009299656095412,
+    "selected_step": 3000,
+    "training_seconds": 2.818289122999886
+  },
+  {
+    "samples": 128,
+    "seed": 826,
+    "condition": "high_frequency_source_ood",
+    "mean_relative_l2": 11.585560022359921,
+    "selected_step": 3000,
+    "training_seconds": 2.818289122999886
+  }
+]

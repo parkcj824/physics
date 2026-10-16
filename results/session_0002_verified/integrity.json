@@ -1,0 +1,21 @@
+{
+  "status": "verified",
+  "records": 198,
+  "cycles": 12,
+  "pytest_passed": 21,
+  "pytest_failed": 0,
+  "pytest_skipped": 0,
+  "validated_png_count": 4,
+  "checks": [
+    "all saved error metrics recomputed from predictions and references",
+    "all predictions finite and timed",
+    "source snapshot and current code hashes match",
+    "PNG files decoded",
+    "manufactured continuum convergence confirmed",
+    "nonzero passing pytest result inspected"
+  ],
+  "limitations": [
+    "record integrity is not proof of architectural novelty",
+    "traced memory omits some native allocations; RSS is a process high-water mark"
+  ]
+}
