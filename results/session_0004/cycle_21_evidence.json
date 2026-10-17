@@ -1,0 +1,290 @@
+[
+  {
+    "mode": "feedback",
+    "seed": 1004,
+    "case": "boundary",
+    "mean_relative_l2": 0.022635461951000864,
+    "mean_pde_residual_inf": 17.696621222308305,
+    "max_generated_energy_balance_abs": 0.0
+  },
+  {
+    "mode": "feedback",
+    "seed": 1004,
+    "case": "iid",
+    "mean_relative_l2": 0.05502652246123964,
+    "mean_pde_residual_inf": 5.177452605409832,
+    "max_generated_energy_balance_abs": 6.938893903907228e-18
+  },
+  {
+    "mode": "feedback",
+    "seed": 1004,
+    "case": "lowk",
+    "mean_relative_l2": 0.6819939426864392,
+    "mean_pde_residual_inf": 6.581446802873032,
+    "max_generated_energy_balance_abs": 5.551115123125783e-17
+  },
+  {
+    "mode": "feedback",
+    "seed": 1004,
+    "case": "source",
+    "mean_relative_l2": 0.17152686869282385,
+    "mean_pde_residual_inf": 16.108869862371954,
+    "max_generated_energy_balance_abs": 1.1102230246251565e-16
+  },
+  {
+    "mode": "feedback",
+    "seed": 1005,
+    "case": "boundary",
+    "mean_relative_l2": 0.043067021930150204,
+    "mean_pde_residual_inf": 17.17654094346459,
+    "max_generated_energy_balance_abs": 1.1102230246251565e-16
+  },
+  {
+    "mode": "feedback",
+    "seed": 1005,
+    "case": "iid",
+    "mean_relative_l2": 0.09013805161642752,
+    "mean_pde_residual_inf": 5.799075674032494,
+    "max_generated_energy_balance_abs": 6.938893903907228e-18
+  },
+  {
+    "mode": "feedback",
+    "seed": 1005,
+    "case": "lowk",
+    "mean_relative_l2": 0.7087206516051194,
+    "mean_pde_residual_inf": 3.9662985983024965,
+    "max_generated_energy_balance_abs": 1.3877787807814457e-17
+  },
+  {
+    "mode": "feedback",
+    "seed": 1005,
+    "case": "source",
+    "mean_relative_l2": 0.12500513796197818,
+    "mean_pde_residual_inf": 7.913899752589822,
+    "max_generated_energy_balance_abs": 0.0
+  },
+  {
+    "mode": "feedback",
+    "seed": 1006,
+    "case": "boundary",
+    "mean_relative_l2": 0.03152674021773776,
+    "mean_pde_residual_inf": 11.383198053284769,
+    "max_generated_energy_balance_abs": 1.3877787807814457e-17
+  },
+  {
+    "mode": "feedback",
+    "seed": 1006,
+    "case": "iid",
+    "mean_relative_l2": 0.07841781089105374,
+    "mean_pde_residual_inf": 4.027183804955596,
+    "max_generated_energy_balance_abs": 2.220446049250313e-16
+  },
+  {
+    "mode": "feedback",
+    "seed": 1006,
+    "case": "lowk",
+    "mean_relative_l2": 0.6895952509179016,
+    "mean_pde_residual_inf": 6.832532919029072,
+    "max_generated_energy_balance_abs": 2.6020852139652106e-18
+  },
+  {
+    "mode": "feedback",
+    "seed": 1006,
+    "case": "source",
+    "mean_relative_l2": 0.13728605202836772,
+    "mean_pde_residual_inf": 9.854705197372887,
+    "max_generated_energy_balance_abs": 0.0
+  },
+  {
+    "mode": "no_feedback",
+    "seed": 1004,
+    "case": "boundary",
+    "mean_relative_l2": 0.10584519518902485,
+    "mean_pde_residual_inf": 4.6073636232787765,
+    "max_generated_energy_balance_abs": 2.7755575615628914e-17
+  },
+  {
+    "mode": "no_feedback",
+    "seed": 1004,
+    "case": "iid",
+    "mean_relative_l2": 0.10565962275379275,
+    "mean_pde_residual_inf": 2.017544847373978,
+    "max_generated_energy_balance_abs": 2.7755575615628914e-17
+  },
+  {
+    "mode": "no_feedback",
+    "seed": 1004,
+    "case": "lowk",
+    "mean_relative_l2": 0.8032679133602568,
+    "mean_pde_residual_inf": 1.3808917671158134,
+    "max_generated_energy_balance_abs": 5.551115123125783e-17
+  },
+  {
+    "mode": "no_feedback",
+    "seed": 1004,
+    "case": "source",
+    "mean_relative_l2": 0.2576031836769759,
+    "mean_pde_residual_inf": 4.12420570105029,
+    "max_generated_energy_balance_abs": 2.220446049250313e-16
+  },
+  {
+    "mode": "no_feedback",
+    "seed": 1005,
+    "case": "boundary",
+    "mean_relative_l2": 0.09901947794710712,
+    "mean_pde_residual_inf": 5.474914111898086,
+    "max_generated_energy_balance_abs": 4.163336342344337e-17
+  },
+  {
+    "mode": "no_feedback",
+    "seed": 1005,
+    "case": "iid",
+    "mean_relative_l2": 0.1588847296928504,
+    "mean_pde_residual_inf": 2.1416208405428736,
+    "max_generated_energy_balance_abs": 2.220446049250313e-16
+  },
+  {
+    "mode": "no_feedback",
+    "seed": 1005,
+    "case": "lowk",
+    "mean_relative_l2": 0.8647203196858791,
+    "mean_pde_residual_inf": 1.284197012531866,
+    "max_generated_energy_balance_abs": 1.3877787807814457e-17
+  },
+  {
+    "mode": "no_feedback",
+    "seed": 1005,
+    "case": "source",
+    "mean_relative_l2": 0.25391992605892233,
+    "mean_pde_residual_inf": 5.739089974172945,
+    "max_generated_energy_balance_abs": 5.551115123125783e-17
+  },
+  {
+    "mode": "no_feedback",
+    "seed": 1006,
+    "case": "boundary",
+    "mean_relative_l2": 0.084420191414977,
+    "mean_pde_residual_inf": 4.994961089081825,
+    "max_generated_energy_balance_abs": 2.7755575615628914e-17
+  },
+  {
+    "mode": "no_feedback",
+    "seed": 1006,
+    "case": "iid",
+    "mean_relative_l2": 0.1178672917928334,
+    "mean_pde_residual_inf": 1.894312273637959,
+    "max_generated_energy_balance_abs": 0.0
+  },
+  {
+    "mode": "no_feedback",
+    "seed": 1006,
+    "case": "lowk",
+    "mean_relative_l2": 0.7961947860764045,
+    "mean_pde_residual_inf": 1.9139996651368638,
+    "max_generated_energy_balance_abs": 2.0816681711721685e-17
+  },
+  {
+    "mode": "no_feedback",
+    "seed": 1006,
+    "case": "source",
+    "mean_relative_l2": 0.36658420910281253,
+    "mean_pde_residual_inf": 2.802237828419636,
+    "max_generated_energy_balance_abs": 0.0
+  },
+  {
+    "mode": "direct",
+    "seed": 1004,
+    "case": "boundary",
+    "mean_relative_l2": 0.07297441993601983,
+    "mean_pde_residual_inf": 3.5260486599273704,
+    "max_generated_energy_balance_abs": 0.6813686354994468
+  },
+  {
+    "mode": "direct",
+    "seed": 1004,
+    "case": "iid",
+    "mean_relative_l2": 0.0770468069354592,
+    "mean_pde_residual_inf": 1.6654682301152022,
+    "max_generated_energy_balance_abs": 0.26416553206852034
+  },
+  {
+    "mode": "direct",
+    "seed": 1004,
+    "case": "lowk",
+    "mean_relative_l2": 0.987361394768288,
+    "mean_pde_residual_inf": 2.7698657630341494,
+    "max_generated_energy_balance_abs": 0.7385593698382455
+  },
+  {
+    "mode": "direct",
+    "seed": 1004,
+    "case": "source",
+    "mean_relative_l2": 0.18768234980388931,
+    "mean_pde_residual_inf": 4.280401441753548,
+    "max_generated_energy_balance_abs": 0.5631201045103362
+  },
+  {
+    "mode": "direct",
+    "seed": 1005,
+    "case": "boundary",
+    "mean_relative_l2": 0.09644088663924216,
+    "mean_pde_residual_inf": 4.545836292830851,
+    "max_generated_energy_balance_abs": 0.7005230164568855
+  },
+  {
+    "mode": "direct",
+    "seed": 1005,
+    "case": "iid",
+    "mean_relative_l2": 0.08803645701966609,
+    "mean_pde_residual_inf": 1.4024827279208074,
+    "max_generated_energy_balance_abs": 0.3186180322559327
+  },
+  {
+    "mode": "direct",
+    "seed": 1005,
+    "case": "lowk",
+    "mean_relative_l2": 0.8217162154262391,
+    "mean_pde_residual_inf": 1.6772620402761342,
+    "max_generated_energy_balance_abs": 0.4940951520835141
+  },
+  {
+    "mode": "direct",
+    "seed": 1005,
+    "case": "source",
+    "mean_relative_l2": 0.22894367517743963,
+    "mean_pde_residual_inf": 3.186875679831865,
+    "max_generated_energy_balance_abs": 0.9914538433737304
+  },
+  {
+    "mode": "direct",
+    "seed": 1006,
+    "case": "boundary",
+    "mean_relative_l2": 0.07893443617532248,
+    "mean_pde_residual_inf": 4.127871807687173,
+    "max_generated_energy_balance_abs": 0.5326903843737265
+  },
+  {
+    "mode": "direct",
+    "seed": 1006,
+    "case": "iid",
+    "mean_relative_l2": 0.07257138350130365,
+    "mean_pde_residual_inf": 1.655510946400009,
+    "max_generated_energy_balance_abs": 0.1898985521916461
+  },
+  {
+    "mode": "direct",
+    "seed": 1006,
+    "case": "lowk",
+    "mean_relative_l2": 1.0097662733477302,
+    "mean_pde_residual_inf": 1.1168809771960553,
+    "max_generated_energy_balance_abs": 1.2210761440088105
+  },
+  {
+    "mode": "direct",
+    "seed": 1006,
+    "case": "source",
+    "mean_relative_l2": 0.1293436926327342,
+    "mean_pde_residual_inf": 4.190428835126049,
+    "max_generated_energy_balance_abs": 0.7160022956693006
+  }
+]

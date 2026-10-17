@@ -1,0 +1,36 @@
+{
+  "fold_nonidentifiability": [
+    {
+      "alternative_fold": 3.6,
+      "same_fields_max_absolute_error": 2.220446049250313e-16
+    },
+    {
+      "alternative_fold": 4.0,
+      "same_fields_max_absolute_error": 6.661338147750939e-16
+    },
+    {
+      "alternative_fold": 6.0,
+      "same_fields_max_absolute_error": 2.220446049250313e-16
+    }
+  ],
+  "mean_field_does_not_solve_pde": {
+    "pde_residual_inf": 9.244096126673277,
+    "relative_pde_residual": 0.717496496613016,
+    "constitutive_energy_balance_abs": 3.443758071523554,
+    "boundary_error_abs": 0.0
+  },
+  "higher_order_interactions": [
+    {
+      "lambda": 0.0,
+      "mixed_norm": 1.8193933307329566e-17,
+      "triple_norm": 4.0534663977950536e-17,
+      "exact_pair_truncation_relative_error": 2.3551300938350407e-16
+    },
+    {
+      "lambda": 1.5,
+      "mixed_norm": 0.001493863678799877,
+      "triple_norm": 9.520014589709281e-05,
+      "exact_pair_truncation_relative_error": 8.885541387993865e-05
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "path": "results/session_0004/plots/session0004_evidence.png",
+    "pixels": [
+      2700,
+      792
+    ],
+    "sha256": "998f6bea078f314d58f22de530aa6b9b4c85513607cefc40534b518349850063",
+    "visual_inspection": "performed"
+  },
+  {
+    "path": "results/session_0004/plots/transport_direction.png",
+    "pixels": [
+      1260,
+      756
+    ],
+    "sha256": "f94c6a7b53cd90461fc594b765d96bb9c29edc710f73732d14bfd1d5909f2f5b",
+    "visual_inspection": "performed"
+  }
+]

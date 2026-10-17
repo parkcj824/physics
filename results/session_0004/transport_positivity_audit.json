@@ -1,0 +1,86 @@
+{
+  "scope": "post-confirmation diagnostics on previously saved predictions; positive source and zero boundary; no retraining",
+  "records": [
+    {
+      "mode": "feedback",
+      "seed": 1004,
+      "minimum_prediction": -0.029984110218064804,
+      "minimum_reference": 9.436154035505045e-05,
+      "negative_nodes_below_minus_1e12": 51,
+      "negative_samples": 10,
+      "samples": 32
+    },
+    {
+      "mode": "feedback",
+      "seed": 1005,
+      "minimum_prediction": -0.00010121728122812631,
+      "minimum_reference": 9.436154035505045e-05,
+      "negative_nodes_below_minus_1e12": 1,
+      "negative_samples": 1,
+      "samples": 32
+    },
+    {
+      "mode": "feedback",
+      "seed": 1006,
+      "minimum_prediction": -0.004914036420721061,
+      "minimum_reference": 9.436154035505045e-05,
+      "negative_nodes_below_minus_1e12": 21,
+      "negative_samples": 10,
+      "samples": 32
+    },
+    {
+      "mode": "no_feedback",
+      "seed": 1004,
+      "minimum_prediction": -0.0573559475822696,
+      "minimum_reference": 9.436154035505045e-05,
+      "negative_nodes_below_minus_1e12": 56,
+      "negative_samples": 14,
+      "samples": 32
+    },
+    {
+      "mode": "no_feedback",
+      "seed": 1005,
+      "minimum_prediction": -0.041998291988334935,
+      "minimum_reference": 9.436154035505045e-05,
+      "negative_nodes_below_minus_1e12": 43,
+      "negative_samples": 12,
+      "samples": 32
+    },
+    {
+      "mode": "no_feedback",
+      "seed": 1006,
+      "minimum_prediction": -0.03165003578057928,
+      "minimum_reference": 9.436154035505045e-05,
+      "negative_nodes_below_minus_1e12": 6,
+      "negative_samples": 1,
+      "samples": 32
+    },
+    {
+      "mode": "direct",
+      "seed": 1004,
+      "minimum_prediction": -0.016596458218084968,
+      "minimum_reference": 9.436154035505045e-05,
+      "negative_nodes_below_minus_1e12": 19,
+      "negative_samples": 11,
+      "samples": 32
+    },
+    {
+      "mode": "direct",
+      "seed": 1005,
+      "minimum_prediction": -0.022682252914328127,
+      "minimum_reference": 9.436154035505045e-05,
+      "negative_nodes_below_minus_1e12": 51,
+      "negative_samples": 21,
+      "samples": 32
+    },
+    {
+      "mode": "direct",
+      "seed": 1006,
+      "minimum_prediction": -0.03254758491458982,
+      "minimum_reference": 9.436154035505045e-05,
+      "negative_nodes_below_minus_1e12": 17,
+      "negative_samples": 7,
+      "samples": 32
+    }
+  ]
+}

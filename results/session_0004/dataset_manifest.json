@@ -1,0 +1,37 @@
+{
+  "sha256": {
+    "E_train": "1fd88b966c12b2f7fbbbd8f5f865c943a468e021a503b9d94cb58b117275baf8",
+    "E_val": "01a0e884c46860d4b4bb0298de007896266a5f702336b577b340019a8be1a1d3",
+    "E_confirm_iid": "655c185553284ba7beb130768704376b86df6cdbbc7e547ff7ff9831569bc5bf",
+    "E_confirm_fold": "fd72d0bc9b32108f6edcb89b3cf0701dc8da480854d1287b62a3d50db8ef3aae",
+    "E_confirm_resolution": "068e43cb96ef653322097247fddc4f64623f069ee7217326218e9eb4145974cd",
+    "E_confirm_absent": "897de9707beaf5b5ab7a27dab445a1c81802ef9176bb77e8be1de7bd55c25328",
+    "F_train": "01e6fdbc1baec61dc0397cfbbb6c9bb3a5b9893e7a311d985c6fa92f6221e30d",
+    "F_val": "f91b76ab265f62c86548ce96ac84b0bf600eed5a9e108e5a0216bc0793d3b272",
+    "F_confirm_iid": "7ea67235dc141f35fa41c61cd141e0024205d0a1cade2ea94e8011ce9ef31273",
+    "F_confirm_large": "63f161ea46b017aeb025b336efd08fd0d84c1f00327db93268f3de9695f2a6fd",
+    "F_confirm_source": "795902e97959780c696a1eda1fdc7cf0bdfd1ad47f2cc80e5e9eca186838bf1b",
+    "G_train": "e1fb83742e04c5523150ddcb0294125313cdb4ba3bbbd6fa70619f5799635854",
+    "G_val": "0ee20aaf9c9d4b5cd5b47788e6880b059a7e994a1a595ecac30afb976a8791e2",
+    "G_confirm_iid": "31b0a2ddc693028d9dd5244becc58a46e9c2e7d44b715a15ed35695fb74007e9",
+    "G_confirm_lowk": "cc3aa8fb6cd3b0baa003b5d08ab92149b653c1313394fc9b551bc4e2743d837b",
+    "G_confirm_source": "38cc97e804bd1325d73acbccb22a189265108ab6f1e9c859437d5606600c7aa1",
+    "G_confirm_boundary": "00f09890604e1590f028c418093684c18964fa77480bd1fd20abe118602d228c"
+  },
+  "reference_failures": {
+    "F_train": [],
+    "F_val": [],
+    "F_confirm_iid": [],
+    "F_confirm_large": [],
+    "F_confirm_source": [],
+    "G_train": [],
+    "G_val": [],
+    "G_confirm_iid": [],
+    "G_confirm_lowk": [],
+    "G_confirm_source": [],
+    "G_confirm_boundary": []
+  },
+  "preparation_seconds": 0.8680512399987492,
+  "confirmation_policy": "labels generated now, not used until all checkpoints frozen; near fold and source shifts predetermined",
+  "prior_files_unchanged": 1154
+}
