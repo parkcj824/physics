@@ -1,0 +1,138 @@
+[
+  {
+    "family": "E",
+    "mode": "paired",
+    "total_parameters": 1219,
+    "trainable_parameters": 1219,
+    "parameters_with_gradient_in_probe": 1219,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "E",
+    "mode": "two_head",
+    "total_parameters": 1218,
+    "trainable_parameters": 1218,
+    "parameters_with_gradient_in_probe": 1218,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "E",
+    "mode": "conditioned",
+    "total_parameters": 1217,
+    "trainable_parameters": 1217,
+    "parameters_with_gradient_in_probe": 1217,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "E",
+    "mode": "mean",
+    "total_parameters": 1185,
+    "trainable_parameters": 1185,
+    "parameters_with_gradient_in_probe": 1185,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "F",
+    "mode": "pair",
+    "total_parameters": 4010,
+    "trainable_parameters": 4010,
+    "parameters_with_gradient_in_probe": 4010,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "F",
+    "mode": "additive",
+    "total_parameters": 1890,
+    "trainable_parameters": 1890,
+    "parameters_with_gradient_in_probe": 1890,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "F",
+    "mode": "direct",
+    "total_parameters": 2689,
+    "trainable_parameters": 2689,
+    "parameters_with_gradient_in_probe": 2689,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "G",
+    "mode": "feedback",
+    "total_parameters": 8704,
+    "trainable_parameters": 8704,
+    "parameters_with_gradient_in_probe": 8704,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "G",
+    "mode": "no_feedback",
+    "total_parameters": 8704,
+    "trainable_parameters": 8704,
+    "parameters_with_gradient_in_probe": 4816,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "G",
+    "mode": "direct",
+    "total_parameters": 9439,
+    "trainable_parameters": 9439,
+    "parameters_with_gradient_in_probe": 5551,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "E",
+    "mode": "paired_oracle",
+    "total_parameters": 1219,
+    "trainable_parameters": 1218,
+    "parameters_with_gradient_in_probe": 1218,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "F",
+    "mode": "direct_matched",
+    "total_parameters": 4609,
+    "trainable_parameters": 4609,
+    "parameters_with_gradient_in_probe": 4609,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "H",
+    "mode": "feedback",
+    "total_parameters": 8704,
+    "trainable_parameters": 8704,
+    "parameters_with_gradient_in_probe": 8704,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "H",
+    "mode": "no_feedback",
+    "total_parameters": 8704,
+    "trainable_parameters": 8704,
+    "parameters_with_gradient_in_probe": 4816,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "H",
+    "mode": "direct",
+    "total_parameters": 9439,
+    "trainable_parameters": 9439,
+    "parameters_with_gradient_in_probe": 5551,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "G",
+    "mode": "direct_width64",
+    "total_parameters": 14623,
+    "trainable_parameters": 14623,
+    "parameters_with_gradient_in_probe": 8415,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  },
+  {
+    "family": "H",
+    "mode": "direct_width64",
+    "total_parameters": 14623,
+    "trainable_parameters": 14623,
+    "parameters_with_gradient_in_probe": 8415,
+    "scope": "one representative forward/backward on training inputs, no optimizer update"
+  }
+]

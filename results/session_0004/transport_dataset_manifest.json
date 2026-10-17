@@ -1,0 +1,10 @@
+{
+  "sha256": {
+    "train": "657267c1803e31ca641941df990fc20f3c988169dd618375334ced32e5df2773",
+    "val": "9b3af9f6fb3b4e4058557bd234a97b36a3e083ce1e99544ccfd807d73ec5e0b1",
+    "confirm_iid": "95b285e06164f1dbc4fd81e959c394e880ab9e99a698d613d8850c02c2256af0",
+    "confirm_direction": "1502104a55a8931353433cd43f1a67dc46cb40bab814ece33fc439201cbbabc0",
+    "confirm_lowdiff": "f2dacde9019a70b7fa85a533200cd3c1d91b278970c5e61749cee7e4208805f6"
+  },
+  "preparation_seconds": 0.041250236998166656
+}

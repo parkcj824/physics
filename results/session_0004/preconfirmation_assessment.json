@@ -1,0 +1,20 @@
+{
+  "selection_time": "before confirmation, after base development",
+  "validation_losses": {
+    "E/conditioned": 0.0010408502221566603,
+    "E/mean": 1.1347619997668896,
+    "E/paired": 0.00043733096329744424,
+    "E/two_head": 0.0007828575985648389,
+    "F/additive": 0.17857915740421149,
+    "F/direct": 0.005221151489715616,
+    "F/pair": 0.000576891615951733,
+    "G/direct": 0.012016827010248551,
+    "G/feedback": 0.004726417778118066,
+    "G/no_feedback": 0.02289454645775534
+  },
+  "provisional_next_probes": [
+    "G latent constitutive feedback, Level3-target mechanism; nearest prior art unverified",
+    "F finite mixed-response representation, Level2 probe"
+  ],
+  "reason": "G feedback improves validation loss over both ablations; F explicitly learns finite cross terms. Neither is an established invention. Confirmatory results will be reported for every model without retraining."
+}

@@ -1,0 +1,18 @@
+{
+  "E_train": {
+    "field_records": 96,
+    "distinct_target_array_hashes": 96
+  },
+  "F_train": {
+    "field_records": 512,
+    "distinct_target_array_hashes": 385
+  },
+  "H_train": {
+    "field_records": 128,
+    "distinct_target_array_hashes": 128
+  },
+  "G_train": {
+    "field_records": 128,
+    "distinct_target_array_hashes": 128
+  }
+}
