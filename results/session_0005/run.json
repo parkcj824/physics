@@ -1,0 +1,62 @@
+{
+  "session": "0005",
+  "research_cycles": [
+    24,
+    25,
+    26,
+    27
+  ],
+  "independent_starting_hypotheses": [
+    "J compatibility",
+    "L finite reaction selection",
+    "K causal observability"
+  ],
+  "controls_not_invention_cycles": [
+    "C0",
+    "C0b"
+  ],
+  "start_utc": "2026-10-17T01:00:49.144742+00:00",
+  "closed_utc": "2026-10-17T02:05:17.178934+00:00",
+  "wall_seconds_to_close": 3868.034192,
+  "session_budget_seconds": 5400,
+  "within_budget": true,
+  "head_at_start": "a6ab0bcfe08e463212e59cff86afdaabdd2a954d",
+  "head_at_close": "a6ab0bcfe08e463212e59cff86afdaabdd2a954d",
+  "prior_tracked_files_preserved": 1515,
+  "pytest_passed": 54,
+  "checkpoint_files": 70,
+  "optimizer_updates_executed": 77000,
+  "sum_measured_fit_loop_seconds": 436.92256295402694,
+  "prediction_batches": 333,
+  "classical_prediction_batches": 24,
+  "dataset_files": 25,
+  "exact_correction_equation_checks": 4,
+  "new_architecture_proven": false,
+  "level3_primitive_proven": false,
+  "best_architecture": null,
+  "retained_level2_probe": "L/F5, limited positive-source finite response representation",
+  "next_research_object": "collective state S plus finite nonlinear defect H; no new learned rule yet",
+  "stop_reason": "Four meaningful cycles established causal controls and information-loss counterexamples. Next credible step requires a distinct mathematical learning mechanism and closest-prior-art review, not wider models or larger CFD. No filler cycles.",
+  "unrun": [
+    "learned state-conditioned new primitive",
+    "learned2D/resolution/geometry tests",
+    "incompressible momentum/Stokes",
+    "RANS/HVAC",
+    "GPU training",
+    "new full-paper/patent search",
+    "full70-model retraining wrapper replay"
+  ],
+  "external_research_data_transfer": false,
+  "github_push": false,
+  "paid_resources": false,
+  "gpu_training": false,
+  "full_memory_peak_measured": false,
+  "memory_scope": "Python tracemalloc only; native tensor/BLAS allocations partly omitted",
+  "next_session": "0006",
+  "next_cycle": 28,
+  "verification_mutable_exclusions": [
+    "results/session_0005/validation/integrity.json",
+    "results/session_0005/validation/assets_sha256.json"
+  ],
+  "session0005_asset_files": 585
+}

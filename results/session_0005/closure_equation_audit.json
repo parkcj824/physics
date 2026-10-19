@@ -1,0 +1,32 @@
+{
+  "evaluated_utc": "2026-10-17T02:03:27.560460+00:00",
+  "records": [
+    {
+      "n": 15,
+      "case": "A",
+      "exact_correction_equation_residual_inf": 3.4469649357049548e-12,
+      "state_dependent_reaction_coefficient_max": 3.1798317726043255
+    },
+    {
+      "n": 15,
+      "case": "B",
+      "exact_correction_equation_residual_inf": 3.460787212361538e-12,
+      "state_dependent_reaction_coefficient_max": 3.9324546773627462
+    },
+    {
+      "n": 31,
+      "case": "A",
+      "exact_correction_equation_residual_inf": 3.4975355944766306e-12,
+      "state_dependent_reaction_coefficient_max": 3.1794668383320652
+    },
+    {
+      "n": 31,
+      "case": "B",
+      "exact_correction_equation_residual_inf": 3.4653113711868855e-12,
+      "state_dependent_reaction_coefficient_max": 3.9320033681148026
+    }
+  ],
+  "equation": "A_h delta - lambda exp(T0+S) expm1(delta) - H = 0",
+  "scope": "post-counterexample algebra audit on frozen fields; not a new experiment/model or independent confirmation. This is the original nonlinear PDE in correction coordinates, not a new solver/primitive. S,H plus operator/base parameters and branch selection may close the problem; existence/uniqueness are not automatically guaranteed.",
+  "prior_files_preserved": 1515
+}

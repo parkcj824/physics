@@ -1,0 +1,242 @@
+{
+  "measured_utc": "2026-10-17T01:32:15.889978+00:00",
+  "compatibility": [
+    {
+      "case": "heat",
+      "median_seconds": 0.0008775339993007947,
+      "repeats": 7,
+      "python_tracemalloc_peak_bytes": 26352,
+      "memory_scope": "native/BLAS/PyTorch allocations partly omitted; not full peak memory",
+      "scope": "dense operators, spectral norm setup and128 gradient steps; reference labels already available"
+    },
+    {
+      "case": "lowk",
+      "median_seconds": 0.0007295810028153937,
+      "repeats": 7,
+      "python_tracemalloc_peak_bytes": 26352,
+      "memory_scope": "native/BLAS/PyTorch allocations partly omitted; not full peak memory",
+      "scope": "dense operators, spectral norm setup and128 gradient steps; reference labels already available"
+    },
+    {
+      "case": "adv_plus",
+      "median_seconds": 0.00076014900332666,
+      "repeats": 7,
+      "python_tracemalloc_peak_bytes": 26352,
+      "memory_scope": "native/BLAS/PyTorch allocations partly omitted; not full peak memory",
+      "scope": "dense operators, spectral norm setup and128 gradient steps; reference labels already available"
+    },
+    {
+      "case": "adv_minus",
+      "median_seconds": 0.0008110009985102806,
+      "repeats": 7,
+      "python_tracemalloc_peak_bytes": 26352,
+      "memory_scope": "native/BLAS/PyTorch allocations partly omitted; not full peak memory",
+      "scope": "dense operators, spectral norm setup and128 gradient steps; reference labels already available"
+    }
+  ],
+  "causal": {
+    "median_seconds": 0.0005667709992849268,
+    "repeats": 7,
+    "python_tracemalloc_peak_bytes": 62013,
+    "memory_scope": "native/BLAS/PyTorch allocations partly omitted; not full peak memory"
+  },
+  "closure": [
+    {
+      "n": 15,
+      "median_seconds": 0.0012112269978388213,
+      "repeats": 7,
+      "python_tracemalloc_peak_bytes": 16408,
+      "memory_scope": "native/BLAS/PyTorch allocations partly omitted; not full peak memory",
+      "scope": "base root, analytical source construction, two total-source roots and dense one-Newton corrections"
+    },
+    {
+      "n": 31,
+      "median_seconds": 0.0008692219998920336,
+      "repeats": 7,
+      "python_tracemalloc_peak_bytes": 44088,
+      "memory_scope": "native/BLAS/PyTorch allocations partly omitted; not full peak memory",
+      "scope": "base root, analytical source construction, two total-source roots and dense one-Newton corrections"
+    }
+  ],
+  "datasets": [
+    {
+      "file": "data/C0_G_confirm_boundary.npz",
+      "input_sets": 16,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 8926,
+      "uncompressed_array_bytes": 8568
+    },
+    {
+      "file": "data/C0_G_confirm_iid.npz",
+      "input_sets": 64,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 32549,
+      "uncompressed_array_bytes": 33912
+    },
+    {
+      "file": "data/C0_G_confirm_lowk.npz",
+      "input_sets": 16,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 8984,
+      "uncompressed_array_bytes": 8568
+    },
+    {
+      "file": "data/C0_G_confirm_positive.npz",
+      "input_sets": 16,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 8673,
+      "uncompressed_array_bytes": 8568
+    },
+    {
+      "file": "data/C0_G_confirm_source.npz",
+      "input_sets": 16,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 8952,
+      "uncompressed_array_bytes": 8568
+    },
+    {
+      "file": "data/C0_G_train.npz",
+      "input_sets": 128,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 63976,
+      "uncompressed_array_bytes": 67704
+    },
+    {
+      "file": "data/C0_G_val.npz",
+      "input_sets": 32,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 16834,
+      "uncompressed_array_bytes": 17016
+    },
+    {
+      "file": "data/C0_H_confirm_direction.npz",
+      "input_sets": 32,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 8669,
+      "uncompressed_array_bytes": 16760
+    },
+    {
+      "file": "data/C0_H_confirm_iid.npz",
+      "input_sets": 64,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 29476,
+      "uncompressed_array_bytes": 33400
+    },
+    {
+      "file": "data/C0_H_confirm_lowdiff.npz",
+      "input_sets": 16,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 8074,
+      "uncompressed_array_bytes": 8440
+    },
+    {
+      "file": "data/C0_H_train.npz",
+      "input_sets": 128,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 58108,
+      "uncompressed_array_bytes": 66680
+    },
+    {
+      "file": "data/C0_H_val.npz",
+      "input_sets": 32,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 15197,
+      "uncompressed_array_bytes": 16760
+    },
+    {
+      "file": "data/C0b_G_confirm.npz",
+      "input_sets": 64,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 32552,
+      "uncompressed_array_bytes": 33912
+    },
+    {
+      "file": "data/C0b_H_confirm.npz",
+      "input_sets": 64,
+      "stored_subset_reference_records": null,
+      "compressed_bytes": 29445,
+      "uncompressed_array_bytes": 33400
+    },
+    {
+      "file": "data/F5_far.npz",
+      "input_sets": 16,
+      "stored_subset_reference_records": 64,
+      "compressed_bytes": 8394,
+      "uncompressed_array_bytes": 33528
+    },
+    {
+      "file": "data/F5_four.npz",
+      "input_sets": 16,
+      "stored_subset_reference_records": 256,
+      "compressed_bytes": 31301,
+      "uncompressed_array_bytes": 35064
+    },
+    {
+      "file": "data/F5_linear.npz",
+      "input_sets": 16,
+      "stored_subset_reference_records": 64,
+      "compressed_bytes": 8190,
+      "uncompressed_array_bytes": 33528
+    },
+    {
+      "file": "data/F5_lowk_linear.npz",
+      "input_sets": 16,
+      "stored_subset_reference_records": 64,
+      "compressed_bytes": 8214,
+      "uncompressed_array_bytes": 33528
+    },
+    {
+      "file": "data/F5_pair.npz",
+      "input_sets": 32,
+      "stored_subset_reference_records": 128,
+      "compressed_bytes": 16010,
+      "uncompressed_array_bytes": 66936
+    },
+    {
+      "file": "data/F5_shift.npz",
+      "input_sets": 16,
+      "stored_subset_reference_records": 64,
+      "compressed_bytes": 8404,
+      "uncompressed_array_bytes": 33528
+    },
+    {
+      "file": "data/F5_single.npz",
+      "input_sets": 16,
+      "stored_subset_reference_records": 32,
+      "compressed_bytes": 4924,
+      "uncompressed_array_bytes": 33272
+    },
+    {
+      "file": "data/F5_tiny.npz",
+      "input_sets": 16,
+      "stored_subset_reference_records": 64,
+      "compressed_bytes": 8653,
+      "uncompressed_array_bytes": 33528
+    },
+    {
+      "file": "data/F5_train.npz",
+      "input_sets": 128,
+      "stored_subset_reference_records": 602,
+      "compressed_bytes": 68373,
+      "uncompressed_array_bytes": 268104
+    },
+    {
+      "file": "data/F5_triple.npz",
+      "input_sets": 32,
+      "stored_subset_reference_records": 256,
+      "compressed_bytes": 31262,
+      "uncompressed_array_bytes": 67960
+    },
+    {
+      "file": "data/F5_val.npz",
+      "input_sets": 32,
+      "stored_subset_reference_records": 178,
+      "compressed_bytes": 21632,
+      "uncompressed_array_bytes": 67336
+    }
+  ],
+  "scope": "same saved conditions, reproducibility measurements; no refit/model change/independent discovery. Original whole J/K/closure runtime was not recorded and is not reconstructed as if measured then.",
+  "preparation_limits": "controls and initial F preparation seconds are in manifests; original extra_lowk generation runtime was not recorded. Read costs and subset-label counts separately.",
+  "causal_scope": "transition exponential, training eight histories, two-coefficient LS and32 predictions including first observation generation",
+  "prior_files_preserved": 1515
+}

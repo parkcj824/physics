@@ -1,0 +1,1074 @@
+{
+  "models": [
+    {
+      "checkpoint": "models/F5_reaction_gate_2005.pt",
+      "sha256": "615d92dfcdbdda68fd69fc7739407a104e389f934445dbfb89dbc1e0662b2f06",
+      "seed": 2005,
+      "steps": 1000,
+      "parameter_count": 677,
+      "active_parameter_count": 677,
+      "profiled_flops_one_train_batch": 534049,
+      "profiled_training_flops_estimate": 534049000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 2.5507239430007758,
+      "best_validation_loss": 0.0007861118279725375,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 0.21534881999808597,
+          "validation_loss": 0.19939663604515548
+        },
+        {
+          "step": 100,
+          "train_loss": 0.005548518774039093,
+          "validation_loss": 0.0048293238324444085
+        },
+        {
+          "step": 200,
+          "train_loss": 0.0020595726754283304,
+          "validation_loss": 0.0039150068831955405
+        },
+        {
+          "step": 300,
+          "train_loss": 0.0013019415904877748,
+          "validation_loss": 0.002497104502921402
+        },
+        {
+          "step": 400,
+          "train_loss": 0.0010034078354631208,
+          "validation_loss": 0.0016804046611946313
+        },
+        {
+          "step": 500,
+          "train_loss": 0.0008858621703647668,
+          "validation_loss": 0.0012292862312266923
+        },
+        {
+          "step": 600,
+          "train_loss": 0.0008359316455875999,
+          "validation_loss": 0.0009914227759600987
+        },
+        {
+          "step": 700,
+          "train_loss": 0.0008103237660041879,
+          "validation_loss": 0.0008718787066809041
+        },
+        {
+          "step": 800,
+          "train_loss": 0.0007935268611731174,
+          "validation_loss": 0.0008153450190171542
+        },
+        {
+          "step": 900,
+          "train_loss": 0.0007800017426158562,
+          "validation_loss": 0.0007919012930239124
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.0007677287765352301,
+          "validation_loss": 0.0007861118279725375
+        }
+      ],
+      "kind": "reaction_gate"
+    },
+    {
+      "checkpoint": "models/F5_reaction_gate_2006.pt",
+      "sha256": "f74c1d831e7c507ad65df8d37aff0f947d1dda06db212cbfca252f84f25e6fc9",
+      "seed": 2006,
+      "steps": 1000,
+      "parameter_count": 677,
+      "active_parameter_count": 677,
+      "profiled_flops_one_train_batch": 534049,
+      "profiled_training_flops_estimate": 534049000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 2.738928291000775,
+      "best_validation_loss": 0.0007859512081276645,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 0.21506123234200153,
+          "validation_loss": 0.199073251231935
+        },
+        {
+          "step": 100,
+          "train_loss": 0.005527816748321726,
+          "validation_loss": 0.004829934654391666
+        },
+        {
+          "step": 200,
+          "train_loss": 0.002058928971177146,
+          "validation_loss": 0.003917188609514156
+        },
+        {
+          "step": 300,
+          "train_loss": 0.0013015448066655002,
+          "validation_loss": 0.0024974601992112846
+        },
+        {
+          "step": 400,
+          "train_loss": 0.0010030595419434638,
+          "validation_loss": 0.0016798371680694995
+        },
+        {
+          "step": 500,
+          "train_loss": 0.0008855569087589269,
+          "validation_loss": 0.0012285156140789183
+        },
+        {
+          "step": 600,
+          "train_loss": 0.0008356660026479243,
+          "validation_loss": 0.0009907606235815465
+        },
+        {
+          "step": 700,
+          "train_loss": 0.0008100851537226438,
+          "validation_loss": 0.0008713877411635629
+        },
+        {
+          "step": 800,
+          "train_loss": 0.0007933044237941238,
+          "validation_loss": 0.0008149988720065411
+        },
+        {
+          "step": 900,
+          "train_loss": 0.0007797896900242011,
+          "validation_loss": 0.0007916623330151708
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.000767524745130836,
+          "validation_loss": 0.0007859512081276645
+        }
+      ],
+      "kind": "reaction_gate"
+    },
+    {
+      "checkpoint": "models/F5_reaction_gate_2007.pt",
+      "sha256": "98889acb3433350a3a227d9fcb738bab4edc85cf6c68497661d3f4e52672c031",
+      "seed": 2007,
+      "steps": 1000,
+      "parameter_count": 677,
+      "active_parameter_count": 677,
+      "profiled_flops_one_train_batch": 534049,
+      "profiled_training_flops_estimate": 534049000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 2.4292567519987642,
+      "best_validation_loss": 0.0007859006261860589,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 0.21532011145812813,
+          "validation_loss": 0.1993302517687879
+        },
+        {
+          "step": 100,
+          "train_loss": 0.005546341576029099,
+          "validation_loss": 0.0048123426045166865
+        },
+        {
+          "step": 200,
+          "train_loss": 0.0020577820994886085,
+          "validation_loss": 0.00390874299273825
+        },
+        {
+          "step": 300,
+          "train_loss": 0.0013007858785102258,
+          "validation_loss": 0.002492470335855453
+        },
+        {
+          "step": 400,
+          "train_loss": 0.0010027421434002255,
+          "validation_loss": 0.0016772719813504943
+        },
+        {
+          "step": 500,
+          "train_loss": 0.0008855082788948389,
+          "validation_loss": 0.0012273409919131189
+        },
+        {
+          "step": 600,
+          "train_loss": 0.0008357415627982523,
+          "validation_loss": 0.000990277544521312
+        },
+        {
+          "step": 700,
+          "train_loss": 0.0008102080234546688,
+          "validation_loss": 0.000871205593132155
+        },
+        {
+          "step": 800,
+          "train_loss": 0.0007934430034889424,
+          "validation_loss": 0.0008149287415130661
+        },
+        {
+          "step": 900,
+          "train_loss": 0.0007799325302432396,
+          "validation_loss": 0.0007916198648776744
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.0007676677895580903,
+          "validation_loss": 0.0007859006261860589
+        }
+      ],
+      "kind": "reaction_gate"
+    },
+    {
+      "checkpoint": "models/F5_reaction_no_gate_2005.pt",
+      "sha256": "6987f73fe528ff5aed641d5e68f423659daa716706da30fae3590de59e19871d",
+      "seed": 2005,
+      "steps": 1000,
+      "parameter_count": 675,
+      "active_parameter_count": 675,
+      "profiled_flops_one_train_batch": 476319,
+      "profiled_training_flops_estimate": 476319000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 2.0802749290014617,
+      "best_validation_loss": 0.0010680628074506717,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 0.2060431193297804,
+          "validation_loss": 0.19085816670927144
+        },
+        {
+          "step": 100,
+          "train_loss": 0.0053312288126898715,
+          "validation_loss": 0.005055438232499298
+        },
+        {
+          "step": 200,
+          "train_loss": 0.002137850093922451,
+          "validation_loss": 0.004106678438133094
+        },
+        {
+          "step": 300,
+          "train_loss": 0.0013835838747604154,
+          "validation_loss": 0.002772249895552217
+        },
+        {
+          "step": 400,
+          "train_loss": 0.0010836665941406619,
+          "validation_loss": 0.001991979642474553
+        },
+        {
+          "step": 500,
+          "train_loss": 0.000962797580414512,
+          "validation_loss": 0.0015462565935421878
+        },
+        {
+          "step": 600,
+          "train_loss": 0.0009091516966177815,
+          "validation_loss": 0.001298798362474865
+        },
+        {
+          "step": 700,
+          "train_loss": 0.0008803258422033109,
+          "validation_loss": 0.0011672984142953838
+        },
+        {
+          "step": 800,
+          "train_loss": 0.0008608817139472581,
+          "validation_loss": 0.0011022778714836498
+        },
+        {
+          "step": 900,
+          "train_loss": 0.0008450223328812037,
+          "validation_loss": 0.001074688736200861
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.0008305075817062096,
+          "validation_loss": 0.0010680628074506717
+        }
+      ],
+      "kind": "reaction_no_gate"
+    },
+    {
+      "checkpoint": "models/F5_reaction_no_gate_2006.pt",
+      "sha256": "1236ca11b8f0822eeef1669d61b73a7d961346affc852270d786bf27fc4fa518",
+      "seed": 2006,
+      "steps": 1000,
+      "parameter_count": 675,
+      "active_parameter_count": 675,
+      "profiled_flops_one_train_batch": 476319,
+      "profiled_training_flops_estimate": 476319000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 2.053455233999557,
+      "best_validation_loss": 0.0010679103186557904,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 0.20575908821771063,
+          "validation_loss": 0.1905392533219325
+        },
+        {
+          "step": 100,
+          "train_loss": 0.005312975296377801,
+          "validation_loss": 0.005056988739319925
+        },
+        {
+          "step": 200,
+          "train_loss": 0.002137221214271242,
+          "validation_loss": 0.004108639905789539
+        },
+        {
+          "step": 300,
+          "train_loss": 0.0013831789896879432,
+          "validation_loss": 0.0027723562456600705
+        },
+        {
+          "step": 400,
+          "train_loss": 0.001083297874923908,
+          "validation_loss": 0.0019911605306495283
+        },
+        {
+          "step": 500,
+          "train_loss": 0.000962467033957819,
+          "validation_loss": 0.001545255551142857
+        },
+        {
+          "step": 600,
+          "train_loss": 0.0009088606740878446,
+          "validation_loss": 0.0012979528509531658
+        },
+        {
+          "step": 700,
+          "train_loss": 0.0008800633395483892,
+          "validation_loss": 0.0011666842113797389
+        },
+        {
+          "step": 800,
+          "train_loss": 0.0008606361892489185,
+          "validation_loss": 0.0011018654664172456
+        },
+        {
+          "step": 900,
+          "train_loss": 0.0008447866668610744,
+          "validation_loss": 0.001074427802504644
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.000830278488740141,
+          "validation_loss": 0.0010679103186557904
+        }
+      ],
+      "kind": "reaction_no_gate"
+    },
+    {
+      "checkpoint": "models/F5_reaction_no_gate_2007.pt",
+      "sha256": "7f0d9ba4ba518126c2166d9ee8b36cf7b7df95ee6adbbeace85d74f65cc4be3f",
+      "seed": 2007,
+      "steps": 1000,
+      "parameter_count": 675,
+      "active_parameter_count": 675,
+      "profiled_flops_one_train_batch": 476319,
+      "profiled_training_flops_estimate": 476319000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 2.152851571998326,
+      "best_validation_loss": 0.0010677473307696105,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 0.20601519765300094,
+          "validation_loss": 0.19079258869501736
+        },
+        {
+          "step": 100,
+          "train_loss": 0.005329083837412771,
+          "validation_loss": 0.005039040282506188
+        },
+        {
+          "step": 200,
+          "train_loss": 0.002136083028799475,
+          "validation_loss": 0.0041000507457746955
+        },
+        {
+          "step": 300,
+          "train_loss": 0.001382429709584898,
+          "validation_loss": 0.0027671773101227834
+        },
+        {
+          "step": 400,
+          "train_loss": 0.001082991739193245,
+          "validation_loss": 0.0019883741862772625
+        },
+        {
+          "step": 500,
+          "train_loss": 0.0009624349394597592,
+          "validation_loss": 0.0015438615467907124
+        },
+        {
+          "step": 600,
+          "train_loss": 0.0009089602832476408,
+          "validation_loss": 0.0012972758917314784
+        },
+        {
+          "step": 700,
+          "train_loss": 0.0008802166704261487,
+          "validation_loss": 0.0011663396572911956
+        },
+        {
+          "step": 800,
+          "train_loss": 0.0008608092768316302,
+          "validation_loss": 0.0011016573565876297
+        },
+        {
+          "step": 900,
+          "train_loss": 0.0008449665564358591,
+          "validation_loss": 0.001074263079927062
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.0008304605115250973,
+          "validation_loss": 0.0010677473307696105
+        }
+      ],
+      "kind": "reaction_no_gate"
+    },
+    {
+      "checkpoint": "models/F5_bilinear_2005.pt",
+      "sha256": "a95e6e8bf9d57a1a5b492f3c897bde719e5d77ba291fe49e704f4ae71c7f1208",
+      "seed": 2005,
+      "steps": 1000,
+      "parameter_count": 675,
+      "active_parameter_count": 675,
+      "profiled_flops_one_train_batch": 478239,
+      "profiled_training_flops_estimate": 478239000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 1.7009246480010916,
+      "best_validation_loss": 0.0017240527295503294,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 0.23219005045663438,
+          "validation_loss": 0.22109452524505344
+        },
+        {
+          "step": 100,
+          "train_loss": 0.0010685403700832082,
+          "validation_loss": 0.0017240527295503294
+        },
+        {
+          "step": 200,
+          "train_loss": 0.0008935233201656503,
+          "validation_loss": 0.002219362893125764
+        },
+        {
+          "step": 300,
+          "train_loss": 0.0007637897781358762,
+          "validation_loss": 0.0028428738272717052
+        },
+        {
+          "step": 400,
+          "train_loss": 0.0006811383665002392,
+          "validation_loss": 0.003479941217516888
+        },
+        {
+          "step": 500,
+          "train_loss": 0.0006338036837448688,
+          "validation_loss": 0.004048095463812219
+        },
+        {
+          "step": 600,
+          "train_loss": 0.0006078710615834831,
+          "validation_loss": 0.004507583873335892
+        },
+        {
+          "step": 700,
+          "train_loss": 0.0005928746384811852,
+          "validation_loss": 0.004852697265892648
+        },
+        {
+          "step": 800,
+          "train_loss": 0.0005827406501826067,
+          "validation_loss": 0.0050998971401268745
+        },
+        {
+          "step": 900,
+          "train_loss": 0.0005745815865069311,
+          "validation_loss": 0.005274660690174901
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.0005672580952793794,
+          "validation_loss": 0.0054016760409148
+        }
+      ],
+      "kind": "bilinear"
+    },
+    {
+      "checkpoint": "models/F5_bilinear_2006.pt",
+      "sha256": "1df9e1b28f2401ccdfcac5d7b67f7d9259efe4e26348ce80f7db25b723982a46",
+      "seed": 2006,
+      "steps": 1000,
+      "parameter_count": 675,
+      "active_parameter_count": 675,
+      "profiled_flops_one_train_batch": 478239,
+      "profiled_training_flops_estimate": 478239000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 1.665337610997085,
+      "best_validation_loss": 0.0017315021419792263,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 0.22255088754973218,
+          "validation_loss": 0.21022621810181424
+        },
+        {
+          "step": 100,
+          "train_loss": 0.0010603916872603274,
+          "validation_loss": 0.0017315021419792263
+        },
+        {
+          "step": 200,
+          "train_loss": 0.0008857761899456985,
+          "validation_loss": 0.002243948951426784
+        },
+        {
+          "step": 300,
+          "train_loss": 0.0007571602824546046,
+          "validation_loss": 0.0028801307914248166
+        },
+        {
+          "step": 400,
+          "train_loss": 0.000676301205821731,
+          "validation_loss": 0.0035248382775433383
+        },
+        {
+          "step": 500,
+          "train_loss": 0.0006306524490777558,
+          "validation_loss": 0.0040944197563036935
+        },
+        {
+          "step": 600,
+          "train_loss": 0.000605895104650521,
+          "validation_loss": 0.004550166312874601
+        },
+        {
+          "step": 700,
+          "train_loss": 0.0005915529609854964,
+          "validation_loss": 0.004888729196776203
+        },
+        {
+          "step": 800,
+          "train_loss": 0.000581718463480538,
+          "validation_loss": 0.005128939955370788
+        },
+        {
+          "step": 900,
+          "train_loss": 0.0005736734713417541,
+          "validation_loss": 0.005297811620191388
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.0005663886319410068,
+          "validation_loss": 0.005420612220570216
+        }
+      ],
+      "kind": "bilinear"
+    },
+    {
+      "checkpoint": "models/F5_bilinear_2007.pt",
+      "sha256": "31200344fcb4bbf389bd1f8821f49e19ac5b828a34cf06738f4932490d7e70ba",
+      "seed": 2007,
+      "steps": 1000,
+      "parameter_count": 675,
+      "active_parameter_count": 675,
+      "profiled_flops_one_train_batch": 478239,
+      "profiled_training_flops_estimate": 478239000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 1.907472050999786,
+      "best_validation_loss": 0.0017226793347874785,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 0.23114023483620336,
+          "validation_loss": 0.21886161304416438
+        },
+        {
+          "step": 100,
+          "train_loss": 0.0010681478503478299,
+          "validation_loss": 0.0017226793347874785
+        },
+        {
+          "step": 200,
+          "train_loss": 0.0008929110109739758,
+          "validation_loss": 0.0022246346200719552
+        },
+        {
+          "step": 300,
+          "train_loss": 0.0007632093060206387,
+          "validation_loss": 0.0028505592105680525
+        },
+        {
+          "step": 400,
+          "train_loss": 0.0006806073395194593,
+          "validation_loss": 0.003489277138770261
+        },
+        {
+          "step": 500,
+          "train_loss": 0.0006333228048610187,
+          "validation_loss": 0.004058405458065177
+        },
+        {
+          "step": 600,
+          "train_loss": 0.0006074257456085918,
+          "validation_loss": 0.004518332564377494
+        },
+        {
+          "step": 700,
+          "train_loss": 0.0005924521886487541,
+          "validation_loss": 0.004863579679433596
+        },
+        {
+          "step": 800,
+          "train_loss": 0.0005823349370492426,
+          "validation_loss": 0.0051107978110191635
+        },
+        {
+          "step": 900,
+          "train_loss": 0.0005741912771570486,
+          "validation_loss": 0.005285557209679305
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.0005668843550651469,
+          "validation_loss": 0.005412570841090308
+        }
+      ],
+      "kind": "bilinear"
+    },
+    {
+      "checkpoint": "models/F5_volterra3_2005.pt",
+      "sha256": "ef1a2c79045c74bf9f0091a8b70fe1259897a5c7e77f81eb89db9e7a0f9383e5",
+      "seed": 2005,
+      "steps": 1000,
+      "parameter_count": 1350,
+      "active_parameter_count": 1350,
+      "profiled_flops_one_train_batch": 943007,
+      "profiled_training_flops_estimate": 943007000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 2.0640623830004188,
+      "best_validation_loss": 0.000972481679150282,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 0.20392875503932253,
+          "validation_loss": 0.19031812091304048
+        },
+        {
+          "step": 100,
+          "train_loss": 0.0007353207752317566,
+          "validation_loss": 0.000972481679150282
+        },
+        {
+          "step": 200,
+          "train_loss": 0.0006022616764057539,
+          "validation_loss": 0.0010686003061440611
+        },
+        {
+          "step": 300,
+          "train_loss": 0.0005338429523822899,
+          "validation_loss": 0.0012435342391882121
+        },
+        {
+          "step": 400,
+          "train_loss": 0.0004966526078929471,
+          "validation_loss": 0.0014544551354868556
+        },
+        {
+          "step": 500,
+          "train_loss": 0.00047081508693020736,
+          "validation_loss": 0.0016859392791901146
+        },
+        {
+          "step": 600,
+          "train_loss": 0.0004494893235030069,
+          "validation_loss": 0.0019245842205429038
+        },
+        {
+          "step": 700,
+          "train_loss": 0.0004309277282125149,
+          "validation_loss": 0.0021575548368616524
+        },
+        {
+          "step": 800,
+          "train_loss": 0.0004146459004021464,
+          "validation_loss": 0.0023754762313019464
+        },
+        {
+          "step": 900,
+          "train_loss": 0.0004003956217855536,
+          "validation_loss": 0.0025732750018394143
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.00038799065999996327,
+          "validation_loss": 0.0027494489535894624
+        }
+      ],
+      "kind": "volterra3"
+    },
+    {
+      "checkpoint": "models/F5_volterra3_2006.pt",
+      "sha256": "6f535963ce46e6c74d2e5ee16ebdc7d6bf1411016c68b0cb3d422a6f60582ef3",
+      "seed": 2006,
+      "steps": 1000,
+      "parameter_count": 1350,
+      "active_parameter_count": 1350,
+      "profiled_flops_one_train_batch": 943007,
+      "profiled_training_flops_estimate": 943007000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 2.2040155950016924,
+      "best_validation_loss": 0.0009819948296689379,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 0.19524755562351542,
+          "validation_loss": 0.18050183566779623
+        },
+        {
+          "step": 100,
+          "train_loss": 0.0007311839141922897,
+          "validation_loss": 0.0009819948296689379
+        },
+        {
+          "step": 200,
+          "train_loss": 0.0005982421284003634,
+          "validation_loss": 0.0010812097379872634
+        },
+        {
+          "step": 300,
+          "train_loss": 0.0005307693234579149,
+          "validation_loss": 0.001261449542392536
+        },
+        {
+          "step": 400,
+          "train_loss": 0.000494361527823139,
+          "validation_loss": 0.0014770227758387838
+        },
+        {
+          "step": 500,
+          "train_loss": 0.0004689263176037322,
+          "validation_loss": 0.0017119378082798434
+        },
+        {
+          "step": 600,
+          "train_loss": 0.00044781852149579327,
+          "validation_loss": 0.001952367746059156
+        },
+        {
+          "step": 700,
+          "train_loss": 0.0004294133100514534,
+          "validation_loss": 0.002185437065893522
+        },
+        {
+          "step": 800,
+          "train_loss": 0.00041326316897667974,
+          "validation_loss": 0.002402075892246539
+        },
+        {
+          "step": 900,
+          "train_loss": 0.0003991310153183149,
+          "validation_loss": 0.002597670782887656
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.00038683784138232645,
+          "validation_loss": 0.002771181394397597
+        }
+      ],
+      "kind": "volterra3"
+    },
+    {
+      "checkpoint": "models/F5_volterra3_2007.pt",
+      "sha256": "5eba65a51f8e1bccee0db506fa061694ccf4242bba6cffca663b2dec90c66494",
+      "seed": 2007,
+      "steps": 1000,
+      "parameter_count": 1350,
+      "active_parameter_count": 1350,
+      "profiled_flops_one_train_batch": 943007,
+      "profiled_training_flops_estimate": 943007000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 1.9880050249994383,
+      "best_validation_loss": 0.0009761180713462808,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 0.20288777026839958,
+          "validation_loss": 0.18813725680537272
+        },
+        {
+          "step": 100,
+          "train_loss": 0.000734885570448824,
+          "validation_loss": 0.0009761180713462808
+        },
+        {
+          "step": 200,
+          "train_loss": 0.0006017441872996108,
+          "validation_loss": 0.0010695018507199557
+        },
+        {
+          "step": 300,
+          "train_loss": 0.0005334335859401342,
+          "validation_loss": 0.0012459650776632692
+        },
+        {
+          "step": 400,
+          "train_loss": 0.0004962722882939609,
+          "validation_loss": 0.0014585287296453658
+        },
+        {
+          "step": 500,
+          "train_loss": 0.0004704525609805195,
+          "validation_loss": 0.0016916214588303547
+        },
+        {
+          "step": 600,
+          "train_loss": 0.0004491515681821879,
+          "validation_loss": 0.001931611888747229
+        },
+        {
+          "step": 700,
+          "train_loss": 0.0004306229369179169,
+          "validation_loss": 0.0021655861374409602
+        },
+        {
+          "step": 800,
+          "train_loss": 0.0004143796023050964,
+          "validation_loss": 0.0023841986499492087
+        },
+        {
+          "step": 900,
+          "train_loss": 0.00040017046732036474,
+          "validation_loss": 0.0025824446737232206
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.00038780698723840716,
+          "validation_loss": 0.002758891889263404
+        }
+      ],
+      "kind": "volterra3"
+    },
+    {
+      "checkpoint": "models/F5_attention_2005.pt",
+      "sha256": "e61fe735a86b4ba405bf6bcecac87bb5ba91de6ce3912fc61f6e642be663e5d7",
+      "seed": 2005,
+      "steps": 1000,
+      "parameter_count": 10049,
+      "active_parameter_count": 10049,
+      "profiled_flops_one_train_batch": 189122242,
+      "profiled_training_flops_estimate": 189122242000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 19.08133030499812,
+      "best_validation_loss": 0.014731797508337571,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 47.661342181440496,
+          "validation_loss": 61.6240596920509
+        },
+        {
+          "step": 100,
+          "train_loss": 0.029064371819508324,
+          "validation_loss": 0.04329235546767191
+        },
+        {
+          "step": 200,
+          "train_loss": 0.06485426536703641,
+          "validation_loss": 0.08476217171418331
+        },
+        {
+          "step": 300,
+          "train_loss": 0.012256886601371099,
+          "validation_loss": 0.03011927244061118
+        },
+        {
+          "step": 400,
+          "train_loss": 0.011551072022130375,
+          "validation_loss": 0.029127576307962744
+        },
+        {
+          "step": 500,
+          "train_loss": 0.18758064239498565,
+          "validation_loss": 0.25038231829844015
+        },
+        {
+          "step": 600,
+          "train_loss": 0.00937461854535491,
+          "validation_loss": 0.025646644389098333
+        },
+        {
+          "step": 700,
+          "train_loss": 0.005335610660603969,
+          "validation_loss": 0.019261683232815893
+        },
+        {
+          "step": 800,
+          "train_loss": 0.01580321758050313,
+          "validation_loss": 0.03240988675168945
+        },
+        {
+          "step": 900,
+          "train_loss": 0.003245999261654728,
+          "validation_loss": 0.015427378718947905
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.0029849929641245073,
+          "validation_loss": 0.014731797508337571
+        }
+      ],
+      "kind": "attention"
+    },
+    {
+      "checkpoint": "models/F5_attention_2006.pt",
+      "sha256": "9387abcab27dce153d11630faf6f2c14333f9224f641eb84fd6d8a63a0c4e5b4",
+      "seed": 2006,
+      "steps": 1000,
+      "parameter_count": 10049,
+      "active_parameter_count": 10049,
+      "profiled_flops_one_train_batch": 189122242,
+      "profiled_training_flops_estimate": 189122242000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 18.57371707299899,
+      "best_validation_loss": 0.013944298651390965,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 50.57005312139557,
+          "validation_loss": 65.4577748245738
+        },
+        {
+          "step": 100,
+          "train_loss": 0.026148145676011796,
+          "validation_loss": 0.0397183898692973
+        },
+        {
+          "step": 200,
+          "train_loss": 0.08829480214417022,
+          "validation_loss": 0.11330185419247694
+        },
+        {
+          "step": 300,
+          "train_loss": 0.012760594300049815,
+          "validation_loss": 0.023672890728897285
+        },
+        {
+          "step": 400,
+          "train_loss": 0.01491971463368713,
+          "validation_loss": 0.0260638410726326
+        },
+        {
+          "step": 500,
+          "train_loss": 0.011233417354711023,
+          "validation_loss": 0.022013687863734484
+        },
+        {
+          "step": 600,
+          "train_loss": 0.011069665683284094,
+          "validation_loss": 0.022243989391383324
+        },
+        {
+          "step": 700,
+          "train_loss": 0.008618665436462586,
+          "validation_loss": 0.018705856315875107
+        },
+        {
+          "step": 800,
+          "train_loss": 0.00667920165570025,
+          "validation_loss": 0.017805469888343292
+        },
+        {
+          "step": 900,
+          "train_loss": 0.005713045095494241,
+          "validation_loss": 0.015051785219685204
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.00439369878055745,
+          "validation_loss": 0.013944298651390965
+        }
+      ],
+      "kind": "attention"
+    },
+    {
+      "checkpoint": "models/F5_attention_2007.pt",
+      "sha256": "24f70b96d48543547245160df0040ae23fba570b0d210c84b4dc5d68fee91e74",
+      "seed": 2007,
+      "steps": 1000,
+      "parameter_count": 10049,
+      "active_parameter_count": 10049,
+      "profiled_flops_one_train_batch": 189122242,
+      "profiled_training_flops_estimate": 189122242000,
+      "flops_scope": "PyTorch profiler supported dense/operator subset; not complete arithmetic count",
+      "seconds": 25.625944252999034,
+      "best_validation_loss": 0.018765653399562793,
+      "trace": [
+        {
+          "step": 0,
+          "train_loss": 80.78388422624137,
+          "validation_loss": 95.65155970749899
+        },
+        {
+          "step": 100,
+          "train_loss": 0.023252127708345314,
+          "validation_loss": 0.048571089566970226
+        },
+        {
+          "step": 200,
+          "train_loss": 0.014136841395548149,
+          "validation_loss": 0.026549490740776557
+        },
+        {
+          "step": 300,
+          "train_loss": 0.014819802378276892,
+          "validation_loss": 0.030629061705685183
+        },
+        {
+          "step": 400,
+          "train_loss": 0.01193130240849828,
+          "validation_loss": 0.02322315708731233
+        },
+        {
+          "step": 500,
+          "train_loss": 0.011139099048476356,
+          "validation_loss": 0.02196451256592882
+        },
+        {
+          "step": 600,
+          "train_loss": 0.011457462087754984,
+          "validation_loss": 0.024390591502253374
+        },
+        {
+          "step": 700,
+          "train_loss": 0.010752308160909494,
+          "validation_loss": 0.01989008271479315
+        },
+        {
+          "step": 800,
+          "train_loss": 0.008868671336920845,
+          "validation_loss": 0.0222300780145158
+        },
+        {
+          "step": 900,
+          "train_loss": 0.013119968895611905,
+          "validation_loss": 0.02651684465310844
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.00661779308474165,
+          "validation_loss": 0.018765653399562793
+        }
+      ],
+      "kind": "attention"
+    }
+  ],
+  "frozen_utc": "2026-10-17T01:16:45.904620+00:00",
+  "shared_encoder_sha256": "81af34efb97b30af6c4f7b5021b8c74f0e10bffa46094cfd86102be1b6d4b388",
+  "training_cross_rms": 0.0003099983678058532,
+  "training_full_rms": 0.15046971864829325,
+  "prior_files_preserved": 1515
+}

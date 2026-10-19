@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "n": 15,
+      "minimum_source": 0.5396340196676673,
+      "H_input_max_difference": 2.0816681711721685e-16,
+      "S_state_max_difference": 0.21243553704173757,
+      "required_correction_l2_difference": 0.0063088612121113205,
+      "H_only_worst_case_l2_lower_bound": 0.0031544306060556603,
+      "reference_correction_l2": [
+        0.06045183220800823,
+        0.06676066213736562
+      ],
+      "state_informed_one_newton_relative_errors": [
+        0.003966156645624097,
+        0.005916084630676909
+      ]
+    },
+    {
+      "n": 31,
+      "minimum_source": 0.5392677576376866,
+      "H_input_max_difference": 4.163336342344337e-16,
+      "S_state_max_difference": 0.21243553704173757,
+      "required_correction_l2_difference": 0.008852459730456052,
+      "H_only_worst_case_l2_lower_bound": 0.004426229865228026,
+      "reference_correction_l2": [
+        0.08518069446733635,
+        0.09403311249939243
+      ],
+      "state_informed_one_newton_relative_errors": [
+        0.003936621503052762,
+        0.005867373468198808
+      ]
+    }
+  ],
+  "verdict": "REVISE H-only closure for arbitrary physical sources: collective state S is also necessary; repair shown is classical Newton, not an invention",
+  "scope": "analytic positive source family outside Gaussian training inputs; ideal physically faithful singleton footprints; not a model IID accuracy result",
+  "prior_files_preserved": 1515
+}

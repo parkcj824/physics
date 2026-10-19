@@ -1,0 +1,19 @@
+{
+  "verified_utc": "2026-10-19T04:03:01.001776+00:00",
+  "prior_tracked_files_unchanged": 1515,
+  "dataset_files": 25,
+  "independent_reference_checks": 2472,
+  "max_reference_field_difference": 2.1883883594142617e-11,
+  "max_reference_pde_residual": 3.7836400679225335e-13,
+  "checkpoint_files": 70,
+  "control_prediction_batches": 198,
+  "interaction_prediction_batches": 135,
+  "classical_prediction_batches": 24,
+  "snapshot_hash_checks": 50,
+  "snapshot_current_source_checks": 30,
+  "closure_equation_checks": 4,
+  "pytest_tests": 54,
+  "session0005_asset_files_unchanged": 585,
+  "status": "PASS",
+  "scope": "checkpoint/array replay, independent dense references, metrics and counterexamples; no refitting or historical output writes"
+}

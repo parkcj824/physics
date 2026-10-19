@@ -1,0 +1,17 @@
+{
+  "status": "verified",
+  "prior_tracked_files_unchanged": 1154,
+  "dataset_files": 24,
+  "reference_branch_fields_or_discrete_solutions_checked": 1776,
+  "trained_models": 51,
+  "checkpoint_prediction_batches_reproduced": 183,
+  "confirmation_records": 183,
+  "posthoc_positivity_records_verified": 9,
+  "source_snapshot_files_checked": 25,
+  "pytest_passed": 42,
+  "pytest_failed": 0,
+  "pytest_skipped": 0,
+  "confirmation_after_freeze": true,
+  "new_architecture_proven": false,
+  "scope": "repeated method predictions are not independent samples; stored timestamps are provenance, not blind access enforcement"
+}

@@ -1,0 +1,2492 @@
+{
+  "feature_traces": [
+    {
+      "family": "G",
+      "kind": "original",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.8388423258403512,
+          "used_feature_rms": 1.8388423258403512,
+          "hidden_fraction_abs_above_099": 0.021158854166666668
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.8576264564252263,
+          "used_feature_rms": 1.8576264564252263,
+          "hidden_fraction_abs_above_099": 0.058919270833333336
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 1.5908870773644364,
+          "used_feature_rms": 1.5908870773644364,
+          "hidden_fraction_abs_above_099": 0.0302734375
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "original",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.4753967167287847,
+          "used_feature_rms": 1.4753967167287847,
+          "hidden_fraction_abs_above_099": 0.005859375
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.5395868795751864,
+          "used_feature_rms": 1.5395868795751864,
+          "hidden_fraction_abs_above_099": 0.014973958333333334
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 1.8566057589416525,
+          "used_feature_rms": 1.8566057589416525,
+          "hidden_fraction_abs_above_099": 0.078125
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "original",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.4170562342134263,
+          "used_feature_rms": 1.4170562342134263,
+          "hidden_fraction_abs_above_099": 0.012369791666666666
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.747326623952524,
+          "used_feature_rms": 1.747326623952524,
+          "hidden_fraction_abs_above_099": 0.024088541666666668
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.9993490777575145,
+          "used_feature_rms": 0.9993490777575145,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "physics_plus_feature",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.6469880064493534,
+          "used_feature_rms": 1.6770620994124616,
+          "hidden_fraction_abs_above_099": 0.014322916666666666
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.4000712294407973,
+          "used_feature_rms": 1.5930855965981323,
+          "hidden_fraction_abs_above_099": 0.0302734375
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 1.248923431040995,
+          "used_feature_rms": 1.4753217533729823,
+          "hidden_fraction_abs_above_099": 0.013020833333333334
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "physics_plus_feature",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.3608077142391652,
+          "used_feature_rms": 1.4329204015418673,
+          "hidden_fraction_abs_above_099": 0.0048828125
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.539435760391511,
+          "used_feature_rms": 1.6004441770751328,
+          "hidden_fraction_abs_above_099": 0.025065104166666668
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 1.9156041243826716,
+          "used_feature_rms": 2.0116351876456036,
+          "hidden_fraction_abs_above_099": 0.0947265625
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "physics_plus_feature",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.4280285825148005,
+          "used_feature_rms": 1.4835157804097663,
+          "hidden_fraction_abs_above_099": 0.0107421875
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.8892792459738645,
+          "used_feature_rms": 2.024423794246689,
+          "hidden_fraction_abs_above_099": 0.046875
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.968079783804268,
+          "used_feature_rms": 1.0945444337021923,
+          "hidden_fraction_abs_above_099": 0.006184895833333333
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "learned_feature",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.485775760788651,
+          "used_feature_rms": 0.25679896613327713,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.1006533269017933,
+          "used_feature_rms": 0.1978726342979924,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.6284549697240974,
+          "used_feature_rms": 0.167714562722689,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "learned_feature",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.4433963775293601,
+          "used_feature_rms": 0.26352945145058104,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.0341393911211558,
+          "used_feature_rms": 0.1830332798586247,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.7339549579465919,
+          "used_feature_rms": 0.2149689162297293,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "learned_feature",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.4101806084764141,
+          "used_feature_rms": 0.25412749220885505,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.0138600971854193,
+          "used_feature_rms": 0.20448786158313007,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.7975988853164209,
+          "used_feature_rms": 0.182145295261085,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "static_physics",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.385307269756597,
+          "used_feature_rms": 1.385307269756597,
+          "hidden_fraction_abs_above_099": 0.0022786458333333335
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.8163201122954684,
+          "used_feature_rms": 1.385307269756597,
+          "hidden_fraction_abs_above_099": 0.005208333333333333
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.5199378519718423,
+          "used_feature_rms": 1.385307269756597,
+          "hidden_fraction_abs_above_099": 0.0013020833333333333
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "static_physics",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.2607683513436785,
+          "used_feature_rms": 1.2607683513436785,
+          "hidden_fraction_abs_above_099": 0.007161458333333333
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.8088235665521329,
+          "used_feature_rms": 1.2607683513436785,
+          "hidden_fraction_abs_above_099": 0.0146484375
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.5156677144586981,
+          "used_feature_rms": 1.2607683513436785,
+          "hidden_fraction_abs_above_099": 0.012044270833333334
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "static_physics",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.154885906183733,
+          "used_feature_rms": 1.154885906183733,
+          "hidden_fraction_abs_above_099": 0.0016276041666666667
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.7365779645128454,
+          "used_feature_rms": 1.154885906183733,
+          "hidden_fraction_abs_above_099": 0.004231770833333333
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.4543227463097563,
+          "used_feature_rms": 1.154885906183733,
+          "hidden_fraction_abs_above_099": 0.0068359375
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "original",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.5105500836731072,
+          "used_feature_rms": 0.5105500836731072,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.27631313592189455,
+          "used_feature_rms": 0.27631313592189455,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.298777678044891,
+          "used_feature_rms": 0.298777678044891,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "original",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.48856107848608804,
+          "used_feature_rms": 0.48856107848608804,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.37621551459953895,
+          "used_feature_rms": 0.37621551459953895,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.32204297273679905,
+          "used_feature_rms": 0.32204297273679905,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "original",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.31186620108697755,
+          "used_feature_rms": 0.31186620108697755,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.24348769434065887,
+          "used_feature_rms": 0.24348769434065887,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.21275807864633284,
+          "used_feature_rms": 0.21275807864633284,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "physics_plus_feature",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.44573865124165113,
+          "used_feature_rms": 0.6140620257829742,
+          "hidden_fraction_abs_above_099": 0.0003255208333333333
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.25455254114325315,
+          "used_feature_rms": 0.39976634240978287,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.2720494787900563,
+          "used_feature_rms": 0.42679310007262056,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "physics_plus_feature",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.4308611188620055,
+          "used_feature_rms": 0.5255686609968443,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.3379270449437903,
+          "used_feature_rms": 0.48282094660111424,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.3022012808128162,
+          "used_feature_rms": 0.4140701851457922,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "physics_plus_feature",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.27957567078863405,
+          "used_feature_rms": 0.42839813986390557,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.30895662173185856,
+          "used_feature_rms": 0.4385520946985675,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.18209955572023903,
+          "used_feature_rms": 0.37465706458645237,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "learned_feature",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.44230319480558355,
+          "used_feature_rms": 0.38240609563300454,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.3181024275985247,
+          "used_feature_rms": 0.32217146095989807,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.5308835165347577,
+          "used_feature_rms": 0.39726027304714456,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "learned_feature",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.47020543883106003,
+          "used_feature_rms": 0.3739965235330402,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.3253362321718885,
+          "used_feature_rms": 0.3307318420630386,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.27616700133302713,
+          "used_feature_rms": 0.26942160621050515,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "learned_feature",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.2938192817815104,
+          "used_feature_rms": 0.3799727706630669,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.2780914521058563,
+          "used_feature_rms": 0.3832990375076437,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.361356433233894,
+          "used_feature_rms": 0.29159193226239005,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "static_physics",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.5101194848115524,
+          "used_feature_rms": 0.5101194848115524,
+          "hidden_fraction_abs_above_099": 0.0003255208333333333
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.3322266146346903,
+          "used_feature_rms": 0.5101194848115524,
+          "hidden_fraction_abs_above_099": 0.0003255208333333333
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.22049651080381272,
+          "used_feature_rms": 0.5101194848115524,
+          "hidden_fraction_abs_above_099": 0.001953125
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "static_physics",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.4521900757799874,
+          "used_feature_rms": 0.4521900757799874,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.309071717126824,
+          "used_feature_rms": 0.4521900757799874,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.1872941230409669,
+          "used_feature_rms": 0.4521900757799874,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "static_physics",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.31891261975642,
+          "used_feature_rms": 0.31891261975642,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.23995991599413166,
+          "used_feature_rms": 0.31891261975642,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.20013182906499374,
+          "used_feature_rms": 0.31891261975642,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "norm_physical",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.6572384279188244,
+          "used_feature_rms": 0.99999999999981,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.4644165509084655,
+          "used_feature_rms": 0.9999999999997922,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 1.4960786574861789,
+          "used_feature_rms": 0.999999999999815,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "norm_physical",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.58612426351055,
+          "used_feature_rms": 0.9999999999997919,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.6332575858423974,
+          "used_feature_rms": 0.9999999999998196,
+          "hidden_fraction_abs_above_099": 0.0029296875
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 1.5154846466133047,
+          "used_feature_rms": 0.9999999999998398,
+          "hidden_fraction_abs_above_099": 0.004557291666666667
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "norm_physical",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.7028843933718383,
+          "used_feature_rms": 0.9999999999998005,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.6092775301248075,
+          "used_feature_rms": 0.9999999999997897,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 1.3427843151075654,
+          "used_feature_rms": 0.9999999999998147,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "norm_generic",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.3438348246112042,
+          "used_feature_rms": 0.9999999999954662,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.0907729367594468,
+          "used_feature_rms": 0.9999999999969774,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 1.0776585938048473,
+          "used_feature_rms": 0.9999999999976351,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "norm_generic",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.2501517928963781,
+          "used_feature_rms": 0.9999999999947716,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.9539910886402707,
+          "used_feature_rms": 0.9999999999962617,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 1.1021752890640095,
+          "used_feature_rms": 0.9999999999975808,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "norm_generic",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.3539898772705925,
+          "used_feature_rms": 0.9999999999941719,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.186934411940073,
+          "used_feature_rms": 0.9999999999959664,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.7972152735319857,
+          "used_feature_rms": 0.9999999999973116,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "norm_static",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.6622546000331317,
+          "used_feature_rms": 0.9999999999997872,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.2438279581118106,
+          "used_feature_rms": 0.9999999999997696,
+          "hidden_fraction_abs_above_099": 0.0006510416666666666
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.9443557425883671,
+          "used_feature_rms": 0.9999999999997791,
+          "hidden_fraction_abs_above_099": 0.0006510416666666666
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "norm_static",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.717277071079104,
+          "used_feature_rms": 0.9999999999997824,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.2241092786841485,
+          "used_feature_rms": 0.9999999999997847,
+          "hidden_fraction_abs_above_099": 0.0006510416666666666
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.9120046716572481,
+          "used_feature_rms": 0.9999999999997491,
+          "hidden_fraction_abs_above_099": 0.0003255208333333333
+        }
+      ]
+    },
+    {
+      "family": "G",
+      "kind": "norm_static",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 1.558583795297186,
+          "used_feature_rms": 0.9999999999997978,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 1.4098014689229832,
+          "used_feature_rms": 0.9999999999997585,
+          "hidden_fraction_abs_above_099": 0.0016276041666666667
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.7674661994090572,
+          "used_feature_rms": 0.9999999999997586,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "norm_physical",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.4716503742678975,
+          "used_feature_rms": 0.9999999999997544,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.2711366240338657,
+          "used_feature_rms": 0.9999999999997549,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.26521883289493603,
+          "used_feature_rms": 0.9999999999997765,
+          "hidden_fraction_abs_above_099": 0.0006510416666666666
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "norm_physical",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.3838728804450342,
+          "used_feature_rms": 0.9999999999997846,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.2942866860586585,
+          "used_feature_rms": 0.9999999999997395,
+          "hidden_fraction_abs_above_099": 0.0009765625
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.319729719004591,
+          "used_feature_rms": 0.9999999999997676,
+          "hidden_fraction_abs_above_099": 0.0003255208333333333
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "norm_physical",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.31147722132423095,
+          "used_feature_rms": 0.9999999999997473,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.37835901438743424,
+          "used_feature_rms": 0.9999999999997603,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.23491822581309538,
+          "used_feature_rms": 0.9999999999996881,
+          "hidden_fraction_abs_above_099": 0.0013020833333333333
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "norm_generic",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.37565235204046676,
+          "used_feature_rms": 0.999999999993363,
+          "hidden_fraction_abs_above_099": 0.0003255208333333333
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.3922838334647616,
+          "used_feature_rms": 0.9999999999954987,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.3592442094622566,
+          "used_feature_rms": 0.9999999999969567,
+          "hidden_fraction_abs_above_099": 0.0
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "norm_generic",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.4120505655653223,
+          "used_feature_rms": 0.9999999999931057,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.2887915200291757,
+          "used_feature_rms": 0.9999999999949175,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.37925310215011676,
+          "used_feature_rms": 0.9999999999963655,
+          "hidden_fraction_abs_above_099": 0.0003255208333333333
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "norm_generic",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.2831451450291937,
+          "used_feature_rms": 0.9999999999945244,
+          "hidden_fraction_abs_above_099": 0.0006510416666666666
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.4144964733893494,
+          "used_feature_rms": 0.9999999999942308,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.42830445502672254,
+          "used_feature_rms": 0.9999999999948164,
+          "hidden_fraction_abs_above_099": 0.0003255208333333333
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "norm_static",
+      "seed": 2005,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.4345594422822695,
+          "used_feature_rms": 0.9999999999997478,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.36729536901282556,
+          "used_feature_rms": 0.9999999999997137,
+          "hidden_fraction_abs_above_099": 0.0016276041666666667
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.25933812247047233,
+          "used_feature_rms": 0.999999999999713,
+          "hidden_fraction_abs_above_099": 0.0016276041666666667
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "norm_static",
+      "seed": 2006,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.353034716668463,
+          "used_feature_rms": 0.9999999999997706,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.23512252573744952,
+          "used_feature_rms": 0.9999999999996638,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.3864900293780169,
+          "used_feature_rms": 0.9999999999996876,
+          "hidden_fraction_abs_above_099": 0.0009765625
+        }
+      ]
+    },
+    {
+      "family": "H",
+      "kind": "norm_static",
+      "seed": 2007,
+      "layers": [
+        {
+          "layer": 0,
+          "physical_constitutive_defect_rms": 0.36744525324032407,
+          "used_feature_rms": 0.9999999999997425,
+          "hidden_fraction_abs_above_099": 0.0
+        },
+        {
+          "layer": 1,
+          "physical_constitutive_defect_rms": 0.3195229206742756,
+          "used_feature_rms": 0.9999999999997625,
+          "hidden_fraction_abs_above_099": 0.005533854166666667
+        },
+        {
+          "layer": 2,
+          "physical_constitutive_defect_rms": 0.2926045807590663,
+          "used_feature_rms": 0.999999999999763,
+          "hidden_fraction_abs_above_099": 0.0006510416666666666
+        }
+      ]
+    }
+  ],
+  "field_error_decomposition": [
+    {
+      "kind": "reaction_gate",
+      "seed": 2005,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 1.5923419686491726e-05,
+      "mean_whole_field_error_l2": 0.022668853374365163,
+      "mean_squared_cross_term": 7.928970064293731e-07
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2005,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 8.241833008182112e-05,
+      "mean_whole_field_error_l2": 0.01404882780891849,
+      "mean_squared_cross_term": 1.7369609873167443e-06
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2005,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2005,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2005,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 3.58372318101869e-05,
+      "mean_whole_field_error_l2": 0.008491944311379885,
+      "mean_squared_cross_term": 6.623764109533008e-07
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2005,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 2.1402576557966208e-05,
+      "mean_whole_field_error_l2": 0.027335110697439113,
+      "mean_squared_cross_term": 2.0448981977963624e-06
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2005,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 0.0,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 0.0
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2005,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 6.314974843241032e-09,
+      "mean_whole_field_error_l2": 0.0005746890675974392,
+      "mean_squared_cross_term": 2.2883665671588064e-11
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2005,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 4.499793842132566e-05,
+      "mean_whole_field_error_l2": 0.00808488153576271,
+      "mean_squared_cross_term": 7.389382540843859e-07
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2006,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 1.5923147830898872e-05,
+      "mean_whole_field_error_l2": 0.02266885110469226,
+      "mean_squared_cross_term": 7.92781737042369e-07
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2006,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 8.241898858620507e-05,
+      "mean_whole_field_error_l2": 0.014048807916856157,
+      "mean_squared_cross_term": 1.7357248500030331e-06
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2006,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2006,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2006,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 3.582818753260535e-05,
+      "mean_whole_field_error_l2": 0.008491937192178355,
+      "mean_squared_cross_term": 6.621372113765174e-07
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2006,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 2.1401176842020954e-05,
+      "mean_whole_field_error_l2": 0.027335108268682424,
+      "mean_squared_cross_term": 2.044732921048143e-06
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2006,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 0.0,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 0.0
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2006,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 6.314974843241032e-09,
+      "mean_whole_field_error_l2": 0.0005746890675974392,
+      "mean_squared_cross_term": 2.2883665671588064e-11
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2006,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 4.499120058934909e-05,
+      "mean_whole_field_error_l2": 0.008084875300230023,
+      "mean_squared_cross_term": 7.387682651617094e-07
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2007,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 1.5924121523536255e-05,
+      "mean_whole_field_error_l2": 0.02266885355330807,
+      "mean_squared_cross_term": 7.929112877172176e-07
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2007,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 8.241102709271308e-05,
+      "mean_whole_field_error_l2": 0.014048816481228132,
+      "mean_squared_cross_term": 1.7363271640237335e-06
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2007,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2007,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2007,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 3.583215356541161e-05,
+      "mean_whole_field_error_l2": 0.008491940076486609,
+      "mean_squared_cross_term": 6.622260837775992e-07
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2007,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 2.1403128529215254e-05,
+      "mean_whole_field_error_l2": 0.027335110926824443,
+      "mean_squared_cross_term": 2.0449398597865188e-06
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2007,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 0.0,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 0.0
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2007,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 6.314974843241032e-09,
+      "mean_whole_field_error_l2": 0.0005746890675974392,
+      "mean_squared_cross_term": 2.2883665671588064e-11
+    },
+    {
+      "kind": "reaction_gate",
+      "seed": 2007,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 4.499284095781957e-05,
+      "mean_whole_field_error_l2": 0.008084876669884554,
+      "mean_squared_cross_term": 7.388284309525256e-07
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2005,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 2.3414927754407698e-05,
+      "mean_whole_field_error_l2": 0.022678351704099677,
+      "mean_squared_cross_term": 1.2620823167901462e-06
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2005,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 0.00010275483337340022,
+      "mean_whole_field_error_l2": 0.014055841379540081,
+      "mean_squared_cross_term": 2.1225675016728325e-06
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2005,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2005,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2005,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 4.040522473892772e-05,
+      "mean_whole_field_error_l2": 0.008491965136474842,
+      "mean_squared_cross_term": 6.845762498993395e-07
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2005,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 3.033823323328499e-05,
+      "mean_whole_field_error_l2": 0.027345116227775832,
+      "mean_squared_cross_term": 2.7055536420651976e-06
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2005,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 0.0,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 0.0
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2005,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 3.2316984011457655e-10,
+      "mean_whole_field_error_l2": 0.0005746826585106748,
+      "mean_squared_cross_term": -9.804273348795675e-13
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2005,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 5.2835012278149815e-05,
+      "mean_whole_field_error_l2": 0.008087216301451127,
+      "mean_squared_cross_term": 8.415777842454346e-07
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2006,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 2.3414159208727673e-05,
+      "mean_whole_field_error_l2": 0.022678350853963962,
+      "mean_squared_cross_term": 1.2620351787002613e-06
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2006,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 0.00010277759096632115,
+      "mean_whole_field_error_l2": 0.01405582205777724,
+      "mean_squared_cross_term": 2.121385489017943e-06
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2006,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2006,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2006,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 4.039576685667412e-05,
+      "mean_whole_field_error_l2": 0.008491957383065383,
+      "mean_squared_cross_term": 6.843276769910481e-07
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2006,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 3.0337339301242848e-05,
+      "mean_whole_field_error_l2": 0.027345115451559123,
+      "mean_squared_cross_term": 2.705484930560197e-06
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2006,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 0.0,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 0.0
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2006,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 3.231680517020447e-10,
+      "mean_whole_field_error_l2": 0.0005746826585160965,
+      "mean_squared_cross_term": -9.803918118465694e-13
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2006,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 5.282781044241182e-05,
+      "mean_whole_field_error_l2": 0.00808721017772955,
+      "mean_squared_cross_term": 8.414142472173299e-07
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2007,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 2.341501917440927e-05,
+      "mean_whole_field_error_l2": 0.02267835175895179,
+      "mean_squared_cross_term": 1.2620855004763886e-06
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2007,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 0.00010275975751266658,
+      "mean_whole_field_error_l2": 0.01405582833557241,
+      "mean_squared_cross_term": 2.121763245019885e-06
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2007,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2007,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2007,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 4.0399712653739864e-05,
+      "mean_whole_field_error_l2": 0.008491960755298051,
+      "mean_squared_cross_term": 6.844218404472161e-07
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2007,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 3.0338350583739394e-05,
+      "mean_whole_field_error_l2": 0.027345116433327182,
+      "mean_squared_cross_term": 2.7055736302862343e-06
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2007,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 0.0,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 0.0
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2007,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 3.2318265881895315e-10,
+      "mean_whole_field_error_l2": 0.0005746826584951295,
+      "mean_squared_cross_term": -9.804809680085528e-13
+    },
+    {
+      "kind": "reaction_no_gate",
+      "seed": 2007,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 5.282917974973783e-05,
+      "mean_whole_field_error_l2": 0.008087211061518986,
+      "mean_squared_cross_term": 8.414529375384048e-07
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2005,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 2.5664808751976363e-05,
+      "mean_whole_field_error_l2": 0.022680523202220103,
+      "mean_squared_cross_term": 1.3828160265165864e-06
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2005,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 0.00019787296083610602,
+      "mean_whole_field_error_l2": 0.014073601275171056,
+      "mean_squared_cross_term": 2.9919893175201413e-06
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2005,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2005,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2005,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 5.157819896832448e-05,
+      "mean_whole_field_error_l2": 0.008499819529646698,
+      "mean_squared_cross_term": 9.62077245654413e-07
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2005,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 3.2283112244286886e-05,
+      "mean_whole_field_error_l2": 0.02734702008607152,
+      "mean_squared_cross_term": 2.87520649193525e-06
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2005,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 0.0,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 0.0
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2005,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 6.85144058679191e-10,
+      "mean_whole_field_error_l2": 0.0005746823049858422,
+      "mean_squared_cross_term": -2.2682842899500247e-12
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2005,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 7.985872070100555e-05,
+      "mean_whole_field_error_l2": 0.008101704288221746,
+      "mean_squared_cross_term": 1.2612962213348237e-06
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2006,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 2.5670082816735264e-05,
+      "mean_whole_field_error_l2": 0.022680529600081278,
+      "mean_squared_cross_term": 1.383170059307051e-06
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2006,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 0.00019751137117470354,
+      "mean_whole_field_error_l2": 0.014073627852459423,
+      "mean_squared_cross_term": 3.0039185210404042e-06
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2006,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2006,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2006,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 5.140528304756666e-05,
+      "mean_whole_field_error_l2": 0.008499598252347796,
+      "mean_squared_cross_term": 9.546971397339753e-07
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2006,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 3.2282009492639354e-05,
+      "mean_whole_field_error_l2": 0.027347018174382835,
+      "mean_squared_cross_term": 2.875057627100828e-06
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2006,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 0.0,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 0.0
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2006,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 6.881693384696138e-10,
+      "mean_whole_field_error_l2": 0.0005746823017777694,
+      "mean_squared_cross_term": -2.2799509333210108e-12
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2006,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 7.954071016488056e-05,
+      "mean_whole_field_error_l2": 0.008101284477504259,
+      "mean_squared_cross_term": 1.2524502252969992e-06
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2007,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 2.56757850064649e-05,
+      "mean_whole_field_error_l2": 0.0226805342061217,
+      "mean_squared_cross_term": 1.3834232664643937e-06
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2007,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 0.00019744218955336631,
+      "mean_whole_field_error_l2": 0.014073176144028872,
+      "mean_squared_cross_term": 2.9763013169929423e-06
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2007,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2007,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2007,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 5.1538894016232023e-05,
+      "mean_whole_field_error_l2": 0.008499702977953372,
+      "mean_squared_cross_term": 9.586052640574573e-07
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2007,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 3.229405602171032e-05,
+      "mean_whole_field_error_l2": 0.027347031997648697,
+      "mean_squared_cross_term": 2.8762741976448807e-06
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2007,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 0.0,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 0.0
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2007,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 6.863076752196243e-10,
+      "mean_whole_field_error_l2": 0.0005746823040232756,
+      "mean_squared_cross_term": -2.2718125144027925e-12
+    },
+    {
+      "kind": "bilinear",
+      "seed": 2007,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 7.977893209752177e-05,
+      "mean_whole_field_error_l2": 0.008101451310297138,
+      "mean_squared_cross_term": 1.2544119349570673e-06
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2005,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 2.303840136338785e-05,
+      "mean_whole_field_error_l2": 0.022678001378880017,
+      "mean_squared_cross_term": 1.243950484781139e-06
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2005,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 0.0001060734974780338,
+      "mean_whole_field_error_l2": 0.014064017926814477,
+      "mean_squared_cross_term": 2.6544270346548496e-06
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2005,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2005,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2005,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 3.91354421636043e-05,
+      "mean_whole_field_error_l2": 0.008492787253958646,
+      "mean_squared_cross_term": 7.090958100824657e-07
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2005,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 2.9883539685807757e-05,
+      "mean_whole_field_error_l2": 0.027344668923145486,
+      "mean_squared_cross_term": 2.6692364802367173e-06
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2005,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 0.0,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 0.0
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2005,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 2.449088433070217e-10,
+      "mean_whole_field_error_l2": 0.0005746827573255063,
+      "mean_squared_cross_term": -5.790670655774092e-13
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2005,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 5.071910285911274e-05,
+      "mean_whole_field_error_l2": 0.008086791716510364,
+      "mean_squared_cross_term": 8.125585636150783e-07
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2006,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 2.3025175719102813e-05,
+      "mean_whole_field_error_l2": 0.02267798932536728,
+      "mean_squared_cross_term": 1.2432628325410096e-06
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2006,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 0.00010718934599207182,
+      "mean_whole_field_error_l2": 0.014064380956339202,
+      "mean_squared_cross_term": 2.6726723971767635e-06
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2006,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2006,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2006,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 3.903647812844148e-05,
+      "mean_whole_field_error_l2": 0.008492796993274538,
+      "mean_squared_cross_term": 7.098970970150308e-07
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2006,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 2.9866209797662026e-05,
+      "mean_whole_field_error_l2": 0.02734465167671952,
+      "mean_squared_cross_term": 2.667603582757811e-06
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2006,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 0.0,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 0.0
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2006,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 2.4641306804942763e-10,
+      "mean_whole_field_error_l2": 0.0005746827546822413,
+      "mean_squared_cross_term": -5.887643887537642e-13
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2006,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 5.104630879918013e-05,
+      "mean_whole_field_error_l2": 0.008087057922050656,
+      "mean_squared_cross_term": 8.193976295260819e-07
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2007,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 2.302904448015115e-05,
+      "mean_whole_field_error_l2": 0.022677991544905983,
+      "mean_squared_cross_term": 1.243401623712218e-06
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2007,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 0.00010632203548878056,
+      "mean_whole_field_error_l2": 0.01406450753280441,
+      "mean_squared_cross_term": 2.6911293230293612e-06
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2007,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2007,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2007,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 3.910964411811028e-05,
+      "mean_whole_field_error_l2": 0.008492766519847466,
+      "mean_squared_cross_term": 7.083972487500643e-07
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2007,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 2.987571727827263e-05,
+      "mean_whole_field_error_l2": 0.027344662797346337,
+      "mean_squared_cross_term": 2.6687108303999944e-06
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2007,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 0.0,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 0.0
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2007,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 2.44294750218638e-10,
+      "mean_whole_field_error_l2": 0.0005746827585397117,
+      "mean_squared_cross_term": -5.744809124800738e-13
+    },
+    {
+      "kind": "volterra3",
+      "seed": 2007,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 5.083483511395283e-05,
+      "mean_whole_field_error_l2": 0.008086929549534577,
+      "mean_squared_cross_term": 8.165456555041509e-07
+    },
+    {
+      "kind": "attention",
+      "seed": 2005,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 4.7863520992660186e-05,
+      "mean_whole_field_error_l2": 0.02270071804094452,
+      "mean_squared_cross_term": 2.5968299059568404e-06
+    },
+    {
+      "kind": "attention",
+      "seed": 2005,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 0.0006762756444966664,
+      "mean_whole_field_error_l2": 0.014111640892942706,
+      "mean_squared_cross_term": 1.6545937654722661e-06
+    },
+    {
+      "kind": "attention",
+      "seed": 2005,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "attention",
+      "seed": 2005,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "attention",
+      "seed": 2005,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 0.00010417966507384015,
+      "mean_whole_field_error_l2": 0.008429844436050033,
+      "mean_squared_cross_term": -1.2255161881592683e-06
+    },
+    {
+      "kind": "attention",
+      "seed": 2005,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 5.366976841906181e-05,
+      "mean_whole_field_error_l2": 0.02736713264884958,
+      "mean_squared_cross_term": 4.854390838967922e-06
+    },
+    {
+      "kind": "attention",
+      "seed": 2005,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 3.575463893793407e-18,
+      "mean_whole_field_error_l2": 0.004166010684539838,
+      "mean_squared_cross_term": 4.0387998399142676e-21
+    },
+    {
+      "kind": "attention",
+      "seed": 2005,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 4.0189361778010115e-05,
+      "mean_whole_field_error_l2": 0.0006120065443575395,
+      "mean_squared_cross_term": 1.395309614359803e-07
+    },
+    {
+      "kind": "attention",
+      "seed": 2005,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 0.00015359691712058763,
+      "mean_whole_field_error_l2": 0.008096376531941705,
+      "mean_squared_cross_term": 1.2568486254737325e-06
+    },
+    {
+      "kind": "attention",
+      "seed": 2006,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 5.9313279541494295e-05,
+      "mean_whole_field_error_l2": 0.022711617674569647,
+      "mean_squared_cross_term": 3.1656282655572936e-06
+    },
+    {
+      "kind": "attention",
+      "seed": 2006,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 0.000889564460267096,
+      "mean_whole_field_error_l2": 0.014199134869761538,
+      "mean_squared_cross_term": 5.094749741400227e-06
+    },
+    {
+      "kind": "attention",
+      "seed": 2006,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "attention",
+      "seed": 2006,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "attention",
+      "seed": 2006,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 0.00013909838292587784,
+      "mean_whole_field_error_l2": 0.00843157342139147,
+      "mean_squared_cross_term": -1.1462333278193178e-06
+    },
+    {
+      "kind": "attention",
+      "seed": 2006,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 5.439459291681311e-05,
+      "mean_whole_field_error_l2": 0.02736790802726678,
+      "mean_squared_cross_term": 4.988052897309903e-06
+    },
+    {
+      "kind": "attention",
+      "seed": 2006,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 3.716018383984249e-18,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 2.7266380945645536e-21
+    },
+    {
+      "kind": "attention",
+      "seed": 2006,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 2.2461129040408435e-05,
+      "mean_whole_field_error_l2": 0.0005956612090347489,
+      "mean_squared_cross_term": 8.143352019703148e-08
+    },
+    {
+      "kind": "attention",
+      "seed": 2006,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 0.0001732660418206031,
+      "mean_whole_field_error_l2": 0.008106300260454846,
+      "mean_squared_cross_term": 1.4916863810084742e-06
+    },
+    {
+      "kind": "attention",
+      "seed": 2007,
+      "case": "far",
+      "mean_encoder_component_error_l2": 0.022655794904777864,
+      "mean_mixed_component_error_l2": 4.701516476469132e-05,
+      "mean_whole_field_error_l2": 0.02267609725188234,
+      "mean_squared_cross_term": 1.4305776663852246e-06
+    },
+    {
+      "kind": "attention",
+      "seed": 2007,
+      "case": "four",
+      "mean_encoder_component_error_l2": 0.014003015933121001,
+      "mean_mixed_component_error_l2": 0.0009994958147152878,
+      "mean_whole_field_error_l2": 0.014134643906216438,
+      "mean_squared_cross_term": 6.550114416912348e-07
+    },
+    {
+      "kind": "attention",
+      "seed": 2007,
+      "case": "linear",
+      "mean_encoder_component_error_l2": 0.006851449962096098,
+      "mean_mixed_component_error_l2": 3.454721436599585e-17,
+      "mean_whole_field_error_l2": 0.006851449962096095,
+      "mean_squared_cross_term": -5.1525580330841005e-20
+    },
+    {
+      "kind": "attention",
+      "seed": 2007,
+      "case": "lowk_linear",
+      "mean_encoder_component_error_l2": 0.043338719099460285,
+      "mean_mixed_component_error_l2": 2.7676452391126265e-16,
+      "mean_whole_field_error_l2": 0.04333871909946032,
+      "mean_squared_cross_term": 3.0110370369940243e-18
+    },
+    {
+      "kind": "attention",
+      "seed": 2007,
+      "case": "pair",
+      "mean_encoder_component_error_l2": 0.008469538984334765,
+      "mean_mixed_component_error_l2": 0.00014154100806433535,
+      "mean_whole_field_error_l2": 0.008422956971806676,
+      "mean_squared_cross_term": -1.3489824637471459e-06
+    },
+    {
+      "kind": "attention",
+      "seed": 2007,
+      "case": "shift",
+      "mean_encoder_component_error_l2": 0.027315269352104085,
+      "mean_mixed_component_error_l2": 4.576669853443887e-05,
+      "mean_whole_field_error_l2": 0.027338015682284465,
+      "mean_squared_cross_term": 2.953176444146396e-06
+    },
+    {
+      "kind": "attention",
+      "seed": 2007,
+      "case": "single",
+      "mean_encoder_component_error_l2": 0.0041660106845398375,
+      "mean_mixed_component_error_l2": 6.7394962167006475e-18,
+      "mean_whole_field_error_l2": 0.0041660106845398375,
+      "mean_squared_cross_term": 1.3593867966821021e-21
+    },
+    {
+      "kind": "attention",
+      "seed": 2007,
+      "case": "tiny",
+      "mean_encoder_component_error_l2": 0.0005746829623467199,
+      "mean_mixed_component_error_l2": 3.572573606484246e-05,
+      "mean_whole_field_error_l2": 0.0006087536816227186,
+      "mean_squared_cross_term": 1.2974281958824104e-07
+    },
+    {
+      "kind": "attention",
+      "seed": 2007,
+      "case": "triple",
+      "mean_encoder_component_error_l2": 0.00805721071695621,
+      "mean_mixed_component_error_l2": 0.00018698847012146985,
+      "mean_whole_field_error_l2": 0.00810351729464941,
+      "mean_squared_cross_term": 1.305360436851857e-06
+    }
+  ],
+  "pooled_set_equivalence": [
+    {
+      "seed": 2005,
+      "case": "far",
+      "pooled_set_reconstruction_max_error": 1.0842021724855044e-19,
+      "tau_min": 5.920993542481846e-05,
+      "tau_max": 8.189647315261891e-05,
+      "nonlinear_only_activation_fraction": 0.7222222222222222
+    },
+    {
+      "seed": 2005,
+      "case": "four",
+      "pooled_set_reconstruction_max_error": 2.6020852139652106e-18,
+      "tau_min": 5.86246278757787e-05,
+      "tau_max": 8.189647315261891e-05,
+      "nonlinear_only_activation_fraction": 0.9851851851851852
+    },
+    {
+      "seed": 2005,
+      "case": "linear",
+      "pooled_set_reconstruction_max_error": 0.0,
+      "tau_min": 8.189647315261891e-05,
+      "tau_max": 8.189647315261891e-05,
+      "nonlinear_only_activation_fraction": null
+    },
+    {
+      "seed": 2005,
+      "case": "lowk_linear",
+      "pooled_set_reconstruction_max_error": 0.0,
+      "tau_min": 8.189647315261891e-05,
+      "tau_max": 8.189647315261891e-05,
+      "nonlinear_only_activation_fraction": null
+    },
+    {
+      "seed": 2005,
+      "case": "pair",
+      "pooled_set_reconstruction_max_error": 4.336808689942018e-19,
+      "tau_min": 5.8056374690710405e-05,
+      "tau_max": 8.189647315261891e-05,
+      "nonlinear_only_activation_fraction": 0.9411764705882353
+    },
+    {
+      "seed": 2005,
+      "case": "shift",
+      "pooled_set_reconstruction_max_error": 4.0657581468206416e-20,
+      "tau_min": 5.830174243805258e-05,
+      "tau_max": 8.189647315261891e-05,
+      "nonlinear_only_activation_fraction": 0.6777777777777778
+    },
+    {
+      "seed": 2005,
+      "case": "single",
+      "pooled_set_reconstruction_max_error": 0.0,
+      "tau_min": 5.804336219209647e-05,
+      "tau_max": 8.189647315261891e-05,
+      "nonlinear_only_activation_fraction": 0.0
+    },
+    {
+      "seed": 2005,
+      "case": "tiny",
+      "pooled_set_reconstruction_max_error": 0.0,
+      "tau_min": 5.8032728258846636e-05,
+      "tau_max": 8.189647315261891e-05,
+      "nonlinear_only_activation_fraction": 0.0
+    },
+    {
+      "seed": 2005,
+      "case": "triple",
+      "pooled_set_reconstruction_max_error": 8.673617379884035e-19,
+      "tau_min": 5.831720155286678e-05,
+      "tau_max": 8.189647315261891e-05,
+      "nonlinear_only_activation_fraction": 0.9882352941176471
+    },
+    {
+      "seed": 2006,
+      "case": "far",
+      "pooled_set_reconstruction_max_error": 1.0842021724855044e-19,
+      "tau_min": 5.9229952479591745e-05,
+      "tau_max": 8.190724392957288e-05,
+      "nonlinear_only_activation_fraction": 0.7222222222222222
+    },
+    {
+      "seed": 2006,
+      "case": "four",
+      "pooled_set_reconstruction_max_error": 1.734723475976807e-18,
+      "tau_min": 5.8644817964313744e-05,
+      "tau_max": 8.190724392957288e-05,
+      "nonlinear_only_activation_fraction": 0.9851851851851852
+    },
+    {
+      "seed": 2006,
+      "case": "linear",
+      "pooled_set_reconstruction_max_error": 0.0,
+      "tau_min": 8.190724392957288e-05,
+      "tau_max": 8.190724392957288e-05,
+      "nonlinear_only_activation_fraction": null
+    },
+    {
+      "seed": 2006,
+      "case": "lowk_linear",
+      "pooled_set_reconstruction_max_error": 0.0,
+      "tau_min": 8.190724392957288e-05,
+      "tau_max": 8.190724392957288e-05,
+      "nonlinear_only_activation_fraction": null
+    },
+    {
+      "seed": 2006,
+      "case": "pair",
+      "pooled_set_reconstruction_max_error": 8.673617379884035e-19,
+      "tau_min": 5.8076729213315766e-05,
+      "tau_max": 8.190724392957288e-05,
+      "nonlinear_only_activation_fraction": 0.9411764705882353
+    },
+    {
+      "seed": 2006,
+      "case": "shift",
+      "pooled_set_reconstruction_max_error": 2.710505431213761e-20,
+      "tau_min": 5.832202639141803e-05,
+      "tau_max": 8.190724392957288e-05,
+      "nonlinear_only_activation_fraction": 0.6777777777777778
+    },
+    {
+      "seed": 2006,
+      "case": "single",
+      "pooled_set_reconstruction_max_error": 0.0,
+      "tau_min": 5.8063720438770174e-05,
+      "tau_max": 8.190724392957288e-05,
+      "nonlinear_only_activation_fraction": 0.0
+    },
+    {
+      "seed": 2006,
+      "case": "tiny",
+      "pooled_set_reconstruction_max_error": 0.0,
+      "tau_min": 5.805308954748461e-05,
+      "tau_max": 8.190724392957288e-05,
+      "nonlinear_only_activation_fraction": 0.0
+    },
+    {
+      "seed": 2006,
+      "case": "triple",
+      "pooled_set_reconstruction_max_error": 8.673617379884035e-19,
+      "tau_min": 5.833748103806054e-05,
+      "tau_max": 8.190724392957288e-05,
+      "nonlinear_only_activation_fraction": 0.9882352941176471
+    },
+    {
+      "seed": 2007,
+      "case": "far",
+      "pooled_set_reconstruction_max_error": 1.3552527156068805e-19,
+      "tau_min": 5.9213518083399414e-05,
+      "tau_max": 8.189837161393463e-05,
+      "nonlinear_only_activation_fraction": 0.7222222222222222
+    },
+    {
+      "seed": 2007,
+      "case": "four",
+      "pooled_set_reconstruction_max_error": 1.3010426069826053e-18,
+      "tau_min": 5.862824214050792e-05,
+      "tau_max": 8.189837161393463e-05,
+      "nonlinear_only_activation_fraction": 0.9851851851851852
+    },
+    {
+      "seed": 2007,
+      "case": "linear",
+      "pooled_set_reconstruction_max_error": 0.0,
+      "tau_min": 8.189837161393463e-05,
+      "tau_max": 8.189837161393463e-05,
+      "nonlinear_only_activation_fraction": null
+    },
+    {
+      "seed": 2007,
+      "case": "lowk_linear",
+      "pooled_set_reconstruction_max_error": 0.0,
+      "tau_min": 8.189837161393463e-05,
+      "tau_max": 8.189837161393463e-05,
+      "nonlinear_only_activation_fraction": null
+    },
+    {
+      "seed": 2007,
+      "case": "pair",
+      "pooled_set_reconstruction_max_error": 5.421010862427522e-19,
+      "tau_min": 5.8060018997426594e-05,
+      "tau_max": 8.189837161393463e-05,
+      "nonlinear_only_activation_fraction": 0.9411764705882353
+    },
+    {
+      "seed": 2007,
+      "case": "shift",
+      "pooled_set_reconstruction_max_error": 2.710505431213761e-20,
+      "tau_min": 5.830537385099367e-05,
+      "tau_max": 8.189837161393463e-05,
+      "nonlinear_only_activation_fraction": 0.6777777777777778
+    },
+    {
+      "seed": 2007,
+      "case": "single",
+      "pooled_set_reconstruction_max_error": 0.0,
+      "tau_min": 5.804700717927615e-05,
+      "tau_max": 8.189837161393463e-05,
+      "nonlinear_only_activation_fraction": 0.0
+    },
+    {
+      "seed": 2007,
+      "case": "tiny",
+      "pooled_set_reconstruction_max_error": 0.0,
+      "tau_min": 5.8036373801858266e-05,
+      "tau_max": 8.189837161393463e-05,
+      "nonlinear_only_activation_fraction": 0.0
+    },
+    {
+      "seed": 2007,
+      "case": "triple",
+      "pooled_set_reconstruction_max_error": 1.3010426069826053e-18,
+      "tau_min": 5.8320832149466295e-05,
+      "tau_max": 8.189837161393463e-05,
+      "nonlinear_only_activation_fraction": 0.9882352941176471
+    }
+  ],
+  "scope": "saved predictions/frozen checkpoints only; post-confirmation explanatory diagnostics, not new independent confirmation; no optimizer updates",
+  "activation_note": "non-reaction baselines store evaluated slots=1, not a learned physical activation fraction; dense kernels run even when gate signal is zero",
+  "prior_files_preserved": 1515
+}

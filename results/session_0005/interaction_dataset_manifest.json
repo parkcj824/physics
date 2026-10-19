@@ -1,0 +1,30 @@
+{
+  "sha256": {
+    "F5_train": "0af788f0154b06c1a426f3a671399aadbe98b23302f57df8d98274ea8956270b",
+    "F5_val": "5a5c6454ad5d09bb57256453670cb9436fc3eb83d1482053d58e5e0d6ff009bd",
+    "F5_single": "3af48b59de0225a46748b5b5768fe71c6a416ed469b43705ed8999bd91ec0343",
+    "F5_pair": "9d3e95749553e5d342d231f274c43045180cb5483d88ec565dd06b31fba638a3",
+    "F5_triple": "8d92bc64a0d46fb6edc0668c6937eb2e3dd96774c00fc6243e79b7804be2ec48",
+    "F5_four": "94f11535f0409e38f2f8eceeaa4debf1bcf91a1364d9195e468f9c9cbe7c108e",
+    "F5_far": "8e834e42a4ec3b943feed8b0e964ef614e82959d781837a54a283a866fae829d",
+    "F5_shift": "d5e319c7cb85320d003fb64b39ec29aeb7556d3c67505efb15722cfc8e53ac36",
+    "F5_tiny": "98c97ef918b304e1e0e99428b35ff7da97bc5e0e39e38541db6449efe008d160",
+    "F5_linear": "1a3a832fd96d4c7d6c5f695f619d20af7e30827b7657d288f8ce61ef637b8040",
+    "F5_lowk_linear": "eb5ce14f8089f4f71bb884879dc5f47802bd953ddfa9dde9bf2f0ac1d169f383"
+  },
+  "failures": {
+    "F5_train": [],
+    "F5_val": [],
+    "F5_single": [],
+    "F5_pair": [],
+    "F5_triple": [],
+    "F5_four": [],
+    "F5_far": [],
+    "F5_shift": [],
+    "F5_tiny": [],
+    "F5_linear": []
+  },
+  "preparation_seconds": 0.6702448579999327,
+  "scope": "all subsets are reference records; interaction fitting uses full-set mixed targets, base and singletons; repeated zero/base labels are not independent fields",
+  "extra_linear_lowk_condition": "seed52011, k0.1–0.2, lambda0; defined before interaction training/confirmation; not nonlinear low-k validity"
+}
