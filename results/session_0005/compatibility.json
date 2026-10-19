@@ -1,0 +1,179 @@
+{
+  "records": [
+    {
+      "case": "heat",
+      "velocity": 0.0,
+      "conductivity": 1.0,
+      "field_relative_l2": 0.000774602579012707,
+      "balance_inf": 1.0658141036401503e-14,
+      "constitutive_inf": 0.0031692564486451857,
+      "pde_residual_inf": 0.10141620635664594,
+      "compatibility_identity_error": 0.0,
+      "gradient_equals_normal_equations_error": 3.552713678800501e-15,
+      "stable_gradient_step": 0.0004777776536794156,
+      "spectral_setup_seconds": 0.0003676060005091131,
+      "joint_matrix_condition": 32.34983616231726,
+      "unconstrained_update_min_temperature": -0.1326146417406691,
+      "gradient_history": [
+        {
+          "step": 0,
+          "defect_squared_norm": 15.0,
+          "temperature_relative_l2": 1.0
+        },
+        {
+          "step": 1,
+          "defect_squared_norm": 14.540792557892868,
+          "temperature_relative_l2": 1.0
+        },
+        {
+          "step": 8,
+          "defect_squared_norm": 12.723770571292262,
+          "temperature_relative_l2": 0.9993241860569415
+        },
+        {
+          "step": 32,
+          "defect_squared_norm": 9.670704197798386,
+          "temperature_relative_l2": 0.9896176925998419
+        },
+        {
+          "step": 128,
+          "defect_squared_norm": 4.134984753783501,
+          "temperature_relative_l2": 0.8792071084786719
+        }
+      ]
+    },
+    {
+      "case": "lowk",
+      "velocity": 0.0,
+      "conductivity": 0.01,
+      "field_relative_l2": 7.746025790127067e-06,
+      "balance_inf": 4.6629367034256575e-15,
+      "constitutive_inf": 3.1692564486540675e-05,
+      "pde_residual_inf": 0.0010141620635693016,
+      "compatibility_identity_error": 0.0,
+      "gradient_equals_normal_equations_error": 6.938893903907228e-17,
+      "stable_gradient_step": 0.0004925321470680243,
+      "spectral_setup_seconds": 0.0004231450002407655,
+      "joint_matrix_condition": 1066.200342760266,
+      "unconstrained_update_min_temperature": -0.0013670899187906167,
+      "gradient_history": [
+        {
+          "step": 0,
+          "defect_squared_norm": 15.0,
+          "temperature_relative_l2": 1.0
+        },
+        {
+          "step": 1,
+          "defect_squared_norm": 14.527567769727527,
+          "temperature_relative_l2": 1.0
+        },
+        {
+          "step": 8,
+          "defect_squared_norm": 12.678357074470147,
+          "temperature_relative_l2": 0.9999999258909179
+        },
+        {
+          "step": 32,
+          "defect_squared_norm": 9.592249664462676,
+          "temperature_relative_l2": 0.9999987908035741
+        },
+        {
+          "step": 128,
+          "defect_squared_norm": 4.178732817486357,
+          "temperature_relative_l2": 0.9999838729319068
+        }
+      ]
+    },
+    {
+      "case": "adv_plus",
+      "velocity": 1.0,
+      "conductivity": 0.1,
+      "field_relative_l2": 0.00016971619262706367,
+      "balance_inf": 7.105427357601002e-15,
+      "constitutive_inf": 0.00041692564486450756,
+      "pde_residual_inf": 0.013310877084318662,
+      "compatibility_identity_error": 0.0,
+      "gradient_equals_normal_equations_error": 2.8872303853288983e-16,
+      "stable_gradient_step": 0.000492523695782271,
+      "spectral_setup_seconds": 0.00011802299923147075,
+      "joint_matrix_condition": 83.62035380179273,
+      "unconstrained_update_min_temperature": -0.018077415341831632,
+      "gradient_history": [
+        {
+          "step": 0,
+          "defect_squared_norm": 15.0,
+          "temperature_relative_l2": 1.0
+        },
+        {
+          "step": 1,
+          "defect_squared_norm": 14.527575328408865,
+          "temperature_relative_l2": 1.0
+        },
+        {
+          "step": 8,
+          "defect_squared_norm": 12.678331272300563,
+          "temperature_relative_l2": 0.9999645220290067
+        },
+        {
+          "step": 32,
+          "defect_squared_norm": 9.591210373294329,
+          "temperature_relative_l2": 0.9994263538830996
+        },
+        {
+          "step": 128,
+          "defect_squared_norm": 4.155931733932394,
+          "temperature_relative_l2": 0.9925857640789765
+        }
+      ]
+    },
+    {
+      "case": "adv_minus",
+      "velocity": -1.0,
+      "conductivity": 0.1,
+      "field_relative_l2": 0.00016971619262706373,
+      "balance_inf": 5.329070518200751e-15,
+      "constitutive_inf": 0.00041692564486450756,
+      "pde_residual_inf": 0.01331087708431511,
+      "compatibility_identity_error": 1.1102230246251565e-16,
+      "gradient_equals_normal_equations_error": 2.886146183156413e-16,
+      "stable_gradient_step": 0.0004925236957822711,
+      "spectral_setup_seconds": 9.26549982978031e-05,
+      "joint_matrix_condition": 83.62035380179286,
+      "unconstrained_update_min_temperature": -0.017922265289150283,
+      "gradient_history": [
+        {
+          "step": 0,
+          "defect_squared_norm": 15.0,
+          "temperature_relative_l2": 1.0
+        },
+        {
+          "step": 1,
+          "defect_squared_norm": 14.527575328408865,
+          "temperature_relative_l2": 1.0
+        },
+        {
+          "step": 8,
+          "defect_squared_norm": 12.678331272300563,
+          "temperature_relative_l2": 0.9999645220290069
+        },
+        {
+          "step": 32,
+          "defect_squared_norm": 9.591210373294325,
+          "temperature_relative_l2": 0.9994263538830999
+        },
+        {
+          "step": 128,
+          "defect_squared_norm": 4.155931733932391,
+          "temperature_relative_l2": 0.9925857640789765
+        }
+      ]
+    }
+  ],
+  "finite_increment_identity": {
+    "balance_increment_error": 7.438494264988549e-15,
+    "constitutive_increment_error": 6.661338147750939e-16
+  },
+  "verdict": "REJECT current gradient mechanism as independent invention: exactly joint least-squares defect correction; keep separated-defect diagnostic",
+  "trained_neural_model": false,
+  "prior_files_preserved": 1515
+}

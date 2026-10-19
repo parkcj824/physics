@@ -1,0 +1,32 @@
+{
+  "physical_equations": "T_t=-j_x; tau j_t+j=-k T_x; closed Neumann flux; one cosine/sine staggered mode",
+  "n": 16,
+  "omega_discrete": 3.1365484905459393,
+  "tau": 0.2,
+  "k": 1.0,
+  "dt": 0.05,
+  "training_initial_states": 8,
+  "confirm_initial_states": 32,
+  "learned_ar2_coefficients": [
+    1.6711029174544019,
+    -0.7788007830714043
+  ],
+  "cayley_hamilton_coefficients": [
+    1.671102917454402,
+    -0.7788007830714049
+  ],
+  "coefficient_identity_max_error": 5.551115123125783e-16,
+  "ar2_max_absolute_error": 8.326672684688674e-17,
+  "ar1_max_absolute_error": 0.060051713024774994,
+  "same_temperature_distinct_flux_future_gap": 0.13593679001706865,
+  "observability_determinant": -0.13593679001706865,
+  "alias_dt": 0.4794247604546088,
+  "alias_observation_gap": 2.248201624865942e-15,
+  "after_alias_future_gap": 0.041002297317545816,
+  "alias_observability_condition": 486716170493328.7,
+  "energy_max_increase": -3.736541671049958e-05,
+  "fixed_coefficients_new_dt_max_error": 0.08783607617125427,
+  "verdict": "REJECT AR2/observability implementation as a new primitive; hidden flux explains temperature-history benefit, full physical state is Markov",
+  "fitting": "2 coefficients by least squares, not neural network training",
+  "prior_files_preserved": 1515
+}

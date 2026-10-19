@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "reproduced_array_files": 3,
+  "reproduced_arrays": 55,
+  "scope": "ROOT routing in isolated temporary directory, J/K/closure phases; full70-checkpoint training wrapper not rerun",
+  "prior_files_preserved": 1515
+}
